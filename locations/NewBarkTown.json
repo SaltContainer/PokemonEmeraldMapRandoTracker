@@ -1,0 +1,48 @@
+[
+	{
+		"name": "New Bark Town",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"sections": [
+			{
+				"name": "Pokegear",
+				"item_count": 1
+			},
+			{
+				"name": "Aide's Potion",
+				"visibility_rules": ["full_item"],
+				"item_count": 1
+			},
+			{
+				"name": "Give Elm Egg (Aide's Pokeballs)",
+				"access_rules": ["mystery_egg"],
+				"visibility_rules": ["full_item"],
+				"hosted_item": "elm"
+			},
+			{
+				"name": "Rising Badge",
+				"access_rules": ["rising_badge"],
+				"visibility_rules": ["full_item"],
+				"item_count": 1
+			},
+			{   
+				"name": "Elm Everstone",
+				"access_rules": ["togepi"],
+				"visibility_rules": ["pokemon_locked"],
+				"item_count": 1
+			},
+			{
+				"name": "Defeat Elite Four",
+				"access_rules": ["elite_four"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 1365,
+				"y": 868
+			}
+        ]
+	}
+]

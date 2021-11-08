@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Goldenrod Underground",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"access_rules": ["squirt_bottle", "@canUseCut", "$noCutTree"],
+		"sections": [
+			{
+				"name": "Shops",
+				"item_count": 1
+			},
+			{
+				"name": "Hidden Items - Shops",
+				"access_rules": [],
+				"visibility_rules": ["hidden_items"],
+				"chest_unopened_img": "images/chests/hidden_unopened.png",
+				"chest_opened_img": "images/chests/hidden_opened.png",
+				"clear_as_group": false,
+				"item_count": 3
+			},
+			{
+				"name": "Puzzle Room",
+				"access_rules": ["basement_key"],
+				"visibility_rules": ["full_item"],
+				"clear_as_group": false,
+				"item_count": 2
+			},
+			{
+				"name": "Hidden Items - Puzzle Room",
+				"access_rules": ["basement_key"],
+				"visibility_rules": ["hidden_items"],
+				"chest_unopened_img": "images/chests/hidden_unopened.png",
+				"chest_opened_img": "images/chests/hidden_opened.png",
+				"clear_as_group": false,
+				"item_count": 2
+			},
+			{
+				"name": "Warehouse",
+				"access_rules": ["basement_key"],
+				"visibility_rules": ["full_item"],
+				"clear_as_group": false,
+				"item_count": 2
+			},
+			{
+				"name": "TM35 - Sleep Talk",
+				"access_rules": ["basement_key"],
+				"visibility_rules": ["full_item"],
+				"chest_unopened_img": "images/chests/tm_hm_unopened.png",
+				"chest_opened_img": "images/chests/tm_hm_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "Save The Director",
+				"access_rules": ["basement_key,$canFightTeamRocket"],
+				"item_count": 1
+			},
+			{   
+				"name": "Mart Basement Locked",
+				"access_rules": ["basement_key"],
+				"visibility_rules": ["full_item"],
+				"item_count": 1 
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 422,
+				"y": 708
+			}
+		]
+	}
+]

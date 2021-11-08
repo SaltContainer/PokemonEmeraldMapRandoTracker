@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Union Cave",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"sections": [
+			{
+				"name": "1F",
+				"visibility_rules": ["full_item"],
+				"clear_as_group": false,
+				"item_count": 4
+			},
+			{
+				"name": "BF1",
+				"visibility_rules": ["full_item"],
+				"item_count": 1
+			},
+			{
+				"name": "TM39 - Swift",
+				"visibility_rules": ["full_item"],
+				"chest_unopened_img": "images/chests/tm_hm_unopened.png",
+				"chest_opened_img": "images/chests/tm_hm_opened.png",
+				"item_count": 1
+			},
+			{  
+				"name": "BF2",
+				"access_rules": ["@canUseSurf"],
+				"visibility_rules": ["full_item"],
+				"clear_as_group": false,
+				"item_count": 2
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 784,
+				"y": 1118
+			}
+		]
+	}
+]

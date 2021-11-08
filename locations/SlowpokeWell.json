@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Slowpoke Well",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"sections": [
+			{
+				"name": "Hidden Behind Well Entrance",
+				"access_rules": [],
+				"visibility_rules": ["hidden_items"],
+				"chest_unopened_img": "images/chests/hidden_unopened.png",
+				"chest_opened_img": "images/chests/hidden_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "Ground Floor",
+				"visibility_rules": ["full_item"],
+				"item_count": 1
+			},
+			{
+				"name": "Defeat Team Rocket",
+				"hosted_item": "rocketgrunt"
+			},
+			{
+				"name": "TM18 - Rain Dance",
+				"access_rules": ["@canUseSurf, @canUseStrength"],
+				"visibility_rules": ["full_item"],
+				"chest_unopened_img": "images/chests/tm_hm_unopened.png",
+				"chest_opened_img": "images/chests/tm_hm_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "King's Rock Gift",
+				"access_rules": ["@canUseSurf, @canUseStrength"],
+				"visibility_rules": ["full_item"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 650,
+				"y": 1040
+			}
+		]
+	}
+]

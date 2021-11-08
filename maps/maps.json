@@ -1,0 +1,68 @@
+﻿[
+    {
+        "name": "johto_kanto",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/johto_kanto.png"
+    },
+	{
+        "name": "rock_tunnel",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/rock_tunnel.png"
+    },
+	{
+        "name": "mt_silver",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/mt_silver.png"
+    },
+	{
+        "name": "dark_cave",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/dark_cave.png"
+    },
+	{
+        "name": "union_cave",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/union_cave.png"
+    },
+	{
+        "name": "victory_road",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/victory_road.png"
+    },
+	{
+        "name": "mt_mortar1",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/mt_mortar1.png"
+    },
+	{
+        "name": "mt_mortar2",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/mt_mortar2.png"
+    },
+	{
+        "name": "whirl_islands",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/whirl_islands.png"
+    },
+	{
+        "name": "tin_tower1",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/tin_tower1.png"
+    },
+	{
+        "name": "tin_tower2",
+		"location_size": 80,
+		"location_border_thickness": 5,
+        "img": "images/maps/tin_tower2.png"
+    }
+]

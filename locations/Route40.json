@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Route 40",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"access_rules": ["@Ecruteak City"],
+		"sections": [
+			{
+				"name": "Hidden Items",
+				"access_rules": ["tm08"],
+				"visibility_rules": ["hidden_items"],
+				"chest_unopened_img": "images/chests/hidden_unopened.png",
+				"chest_opened_img": "images/chests/hidden_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "Monica",
+				"access_rules": [],
+				"visibility_rules": ["day_happiness"],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 201,
+				"y": 456
+			}
+		]
+	}
+]

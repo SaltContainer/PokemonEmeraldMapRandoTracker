@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Celadon City",
+		"chest_unopened_img": "images/chests/default_unopened.png",
+        "chest_opened_img": "images/chests/default_opened.png",
+		"access_rules": ["@Saffron City"],
+		"sections": [
+			{
+				"name": "TM03 - Curse",
+				"access_rules": [],
+				"visibility_rules": ["day_happiness"],
+				"chest_unopened_img": "images/chests/tm_hm_unopened.png",
+				"chest_opened_img": "images/chests/tm_hm_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "Hidden Items",
+				"access_rules": [],
+				"visibility_rules": ["hidden_items"],
+				"chest_unopened_img": "images/chests/hidden_unopened.png",
+				"chest_opened_img": "images/chests/hidden_opened.png",
+				"item_count": 1
+			},
+			{
+				"name": "Erika Badge",
+				"access_rules": ["@canUseCut"],
+				"hosted_item": "erika"
+			},
+			{
+				"name": "Erika TM19 - Giga Drain",
+				"access_rules": ["@canUseCut"],
+				"visibility_rules": ["full_item"],
+				"chest_unopened_img": "images/chests/tm_hm_unopened.png",
+				"chest_opened_img": "images/chests/tm_hm_opened.png",
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "johto_kanto",
+				"x": 2202,
+				"y": 536,
+			}
+		]
+	}
+]
