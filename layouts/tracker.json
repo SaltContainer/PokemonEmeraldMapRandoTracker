@@ -1,5 +1,5 @@
 {
-	"mt_mortar": {
+	"lavaridge": {
         "type": "container",
         "background": "#877373",
         "content": [
@@ -7,20 +7,20 @@
 			  "type": "tabbed",
 			  "tabs": [
 				{
-				  "title": "Entrance and 2F",
+				  "title": "Town",
 				  "content": {
 					"type": "map",
 					"maps": [
-						"mt_mortar1"
+						"lavaridge"
 					]
 				  }
 				},
 				{
-				  "title": "1F and B1F",
+				  "title": "Pokémon Center",
 				  "content": {
 					"type": "map",
 					"maps": [
-						"mt_mortar2"
+						"lavaridge_center"
 					]
 				  }
 				}
@@ -28,7 +28,7 @@
 			}
         ]
     },
-	"tin_tower": {
+    "sootopolis": {
         "type": "container",
         "background": "#877373",
         "content": [
@@ -36,20 +36,49 @@
 			  "type": "tabbed",
 			  "tabs": [
 				{
-				  "title": "3F-6F",
+				  "title": "City",
 				  "content": {
 					"type": "map",
 					"maps": [
-						"tin_tower1"
+						"sootopolis"
 					]
 				  }
 				},
 				{
-				  "title": "7F-9F",
+				  "title": "Underwater",
 				  "content": {
 					"type": "map",
 					"maps": [
-						"tin_tower2"
+						"sootopolis_underwater"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+    "ever_grande": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "City",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"ever_grande"
+					]
+				  }
+				},
+				{
+				  "title": "Pokémon Center",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"ever_grande_center"
 					]
 				  }
 				}
@@ -71,17 +100,11 @@
                     "content": [
                         {
                             "type": "group",
-                            "header": "Items",
+                            "header": "Progress",
                             "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "key": "tracker_items"
-                            },
-                            "header_content": {
-                                "type": "button_popup",
-                                "style": "settings",
-                                "popup_background": "#55212121",
-                                "layout": "settings_popup"
                             }
                         },
                         {
@@ -102,82 +125,134 @@
 				  "type": "tabbed",
 				  "tabs": [
 					{
-					  "title": "Items and Badges",
+					  "title": "Oldale Town",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"johto_kanto"
+							"oldale"
 						]
 					  }
 					},
 					{
-					  "title": "Dark Cave",
+					  "title": "Petalburg City",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"dark_cave"
+							"petalburg"
+						]
+					  }
+					},
+                    {
+                        "title": "Rustboro City",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "rustboro"
+                          ]
+                        }
+                    },
+					{
+					  "title": "Dewford Town",
+					  "content": {
+						"type": "map",
+						"maps": [
+							"dewford"
 						]
 					  }
 					},
 					{
-					  "title": "Union Cave",
+					  "title": "Slateport City",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"union_cave"
+							"slateport"
 						]
 					  }
 					},
+                    {
+                        "title": "Mauville City",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "mauville"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Verdanturf Town",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "verdanturf"
+                          ]
+                        }
+                    },
 					{
-					  "title": "Mt. Mortar",
+					  "title": "Lavaridge Town",
 					  "content": {
 						"type": "layout",
-						"key": "mt_mortar"
+						"key": "lavaridge"
 					  }
 					},
 					{
-					  "title": "Rock Tunnel",
+					  "title": "Fallarbor Town",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"rock_tunnel"
+							"fallarbor"
 						]
 					  }
 					},
 					{
-					  "title": "Victory Road",
+					  "title": "Fortree City",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"victory_road"
+							"fortree"
 						]
 					  }
 					},
 					{
-					  "title": "Whirl Islands",
+					  "title": "Lilycove City",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"whirl_islands"
+							"lilycove"
 						]
 					  }
 					},
 					{
-					  "title": "Mt. Silver",
+					  "title": "Mossdeep City",
 					  "content": {
 						"type": "map",
 						"maps": [
-							"mt_silver"
+							"mossdeep"
 						]
 					  }
 					},
 					{
-					  "title": "Tin Tower",
+					  "title": "Sootopolis City",
 					  "content": {
 						"type": "layout",
-						"key": "tin_tower"
+						"key": "sootopolis"
 					  }
 					},
+                    {
+                        "title": "Pacifidlog Town",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "pacifidlog"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Ever Grande City",
+                        "content": {
+                          "type": "layout",
+                          "key": "ever_grande"
+                        }
+                    }
 				  ]
 				}
             ]

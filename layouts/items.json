@@ -9,304 +9,56 @@
                 "item_margin": "1,2",
                 "rows": [
                     [
-						"pokegear",
-						"radio_card",
-                        "expansion_card",
-						"squirt_bottle",
-                        "secret_potion",
-                        "card_key",
-						"ss_ticket",
-                        "pass",
+						"gym1",
+						"gym2",
+                        "gym3",
+						"gym4",
+                        "gym5",
+                        "gym6",
+						"gym7",
+                        "gym8",
 						"",
 						""
                     ],
 					[
-						"machine_part",
-						"clear_bell",
-						"rainbow_wing",
-						"silver_wing",
-						"basement_key",
-                        "lost_item",
-						"red_scale",
-						"mystery_egg",
-						"water_stone",
-						""
-                    ],
-					[
-                        "pokedex",
-						"bicycle",
-						"map_card",
-                        "blue_card",
-                        "coin_case",
-                        "item_finder",
-                        "old_rod",
-                        "good_rod",
-                        "super_rod",
-						""
-                    ],
-                    [
-                        "hm01",
-                        "hm02",
-                        "hm03",
-                        "hm04",
-                        "hm05",
-                        "hm06",
-                        "hm07",
-						"tm08",
+						"e41",
+						"e42",
+						"e43",
+						"e44",
+						"champ",
+                        "steven",
+						"",
+						"",
 						"",
 						""
-                    ],
-                    [
-                        "zephyr_badge",
-                        "hive_badge",
-                        "plain_badge",
-                        "fog_badge",
-                        "storm_badge",
-                        "mineral_badge",
-                        "glacier_badge",
-                        "rising_badge",
-						"",
-						""
-                    ],
-                    [
-                        "boulder_badge",
-                        "cascade_badge",
-                        "thunder_badge",
-                        "rainbow_badge",
-                        "soul_badge",
-                        "marsh_badge",
-                        "volcano_badge",
-                        "earth_badge",
-						"",
-						""
-                    ],
-					[
-						"team_rocket",
-						"elite_four",
-						"red",
-						"go",
-						"",
-						"",
-						"",
-						"badges_req_red",
-						"",
-						""
-					]
-                ]
-            },
-            {
-                "type": "itemgrid",
-                "v_alignment": "top",
-                "item_margin": "1,2",
-                "rows": [
-					[ 
-						"full_item", 
-						"hidden_items"
-					],
-					[ 
-						"cut_tree",
-						"vanilla_clair"
-					],
-					[ 
-						"backward_kanto",
-						"elite_four_req"
-					],
-					[ 
-						"berry_trees",
-						"tin_tower"
-					],
-					[ 
-						"day_happiness",
-						"open_silver"
-					],
-					[ 
-						"bug_catching",
-						"phone_items"
-					],
-					[ 
-						"pokemon_locked",
-						"pointless_checks"
-					]
+                    ]
                 ]
             }
         ]
     },
-	"settings_popup": {
-        "type": "array",
-		"orientation": "vertical",
-        "content": [
-            {
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": 0,
-				"content": [
-					{
-						"type": "group",
-						"header": "Easy Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_easy"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Standard Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_standard"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Vintage Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_vintage"
-							}
-						]
-					}					
-				]
-			},
-			{
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": 0,
-				"content": [
-					{
-						"type": "group",
-						"header": "Tricky/Extreme Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_tricky_extreme"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Extreme with Hidden Items",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_extreme_hidden"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Crazy Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_crazy"
-							}
-						]
-					}
-				]
-			},
-			{
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": 0,
-				"content": [
-					{
-						"type": "group",
-						"header": "Crazy with Hidden Items",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_crazy_hidden"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Maximum Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_maximum"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Nightmare Full Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_nightmare"
-							}
-						]
-					}				
-				]
-			},
-						{
-				"type": "array",
-				"orientation": "horizontal",
-				"margin": 0,
-				"content": [
-					{
-						"type": "group",
-						"header": "Nightmare with Hidden Items",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "full_nightmare_hidden"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Easy/Classic Key Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "key_easy_classic"
-							}
-						]
-					},
-					{
-						"type": "group",
-						"header": "Tricky/Extreme Key Item",
-						"header_background": "#3e4b57",
-						"content":[
-							{
-								"type": "item",
-								"margin": "-5,-1,-5,-5",
-								"item": "key_tricky_extreme"
-							}
-						]
-					}				
-				]
-			}
-        ]
+    "tracker_capture_item": {
+        "type": "container",
+        "content": {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "1,2",
+            "rows": [
+                [
+                    "gym1", "gym2", "gym3", "gym4", "gym5", "gym6", "gym7", "gym8"
+                ],
+                [
+                    "e41", "e42", "e43", "e44", "champ", "steven", "", ""
+                ],
+                [
+                    "rock_smash", "strength", "surf", "waterfall", "dive", "", "", ""
+                ],
+                [
+                    "one_way", "dead_end", "event", "trainer", "", "", "", ""
+                ],
+                [
+                    "custom1", "custom2", "custom3", "custom4", "custom5", "custom6", "custom7", "custom8"
+                ]
+            ]
+        }
     }
 }
