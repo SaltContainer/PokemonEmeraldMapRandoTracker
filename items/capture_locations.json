@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Oldale Town",
+        "type": "toggle",
+        "img": "images/locations/oldale.png",
+        "codes": "cap_oldale"
+    },
+    {
+        "name": "Petalburg City",
+        "type": "toggle",
+        "img": "images/locations/petalburg.png",
+        "codes": "cap_petalburg"
+    },
+    {
+        "name": "Rustboro City",
+        "type": "toggle",
+        "img": "images/locations/rustboro.png",
+        "codes": "cap_rustboro"
+    },
+    {
+        "name": "Dewford Town",
+        "type": "toggle",
+        "img": "images/locations/dewford.png",
+        "codes": "cap_dewford"
+    },
+    {
+        "name": "Slateport City",
+        "type": "toggle",
+        "img": "images/locations/slateport.png",
+        "codes": "cap_slateport"
+    },
+    {
+        "name": "Mauville City",
+        "type": "toggle",
+        "img": "images/locations/mauville.png",
+        "codes": "cap_mauville"
+    },
+    {
+        "name": "Verdanturf Town",
+        "type": "toggle",
+        "img": "images/locations/verdanturf.png",
+        "codes": "cap_verdanturf"
+    },
+    {
+        "name": "Lavaridge Town",
+        "type": "toggle",
+        "img": "images/locations/lavaridge.png",
+        "codes": "cap_lavaridge"
+    },
+    {
+        "name": "Fallarbor Town",
+        "type": "toggle",
+        "img": "images/locations/fallarbor.png",
+        "codes": "cap_fallarbor"
+    },
+    {
+        "name": "Fortree City",
+        "type": "toggle",
+        "img": "images/locations/fortree.png",
+        "codes": "cap_fortree"
+    },
+    {
+        "name": "Lilycove City",
+        "type": "toggle",
+        "img": "images/locations/lilycove.png",
+        "codes": "cap_lilycove"
+    },
+    {
+        "name": "Mossdeep City",
+        "type": "toggle",
+        "img": "images/locations/mossdeep.png",
+        "codes": "cap_mossdeep"
+    },
+    {
+        "name": "Sootopolis City",
+        "type": "toggle",
+        "img": "images/locations/sootopolis.png",
+        "codes": "cap_sootopolis"
+    },
+    {
+        "name": "Pacifidlog Town",
+        "type": "toggle",
+        "img": "images/locations/pacifidlog.png",
+        "codes": "cap_pacifidlog"
+    },
+    {
+        "name": "Ever Grande City",
+        "type": "toggle",
+        "img": "images/locations/ever_grande.png",
+        "codes": "cap_ever_grande"
+    },
+    {
+        "name": "Route 104",
+        "type": "toggle",
+        "img": "images/locations/route_104.png",
+        "codes": "cap_route_104"
+    },
+    {
+        "name": "Route 105",
+        "type": "toggle",
+        "img": "images/locations/route_105.png",
+        "codes": "cap_route_105"
+    },
+    {
+        "name": "Route 106",
+        "type": "toggle",
+        "img": "images/locations/route_106.png",
+        "codes": "cap_route_106"
+    },
+    {
+        "name": "Route 108",
+        "type": "toggle",
+        "img": "images/locations/route_108.png",
+        "codes": "cap_route_108"
+    },
+    {
+        "name": "Route 109",
+        "type": "toggle",
+        "img": "images/locations/route_109.png",
+        "codes": "cap_route_109"
+    },
+    {
+        "name": "Route 110",
+        "type": "toggle",
+        "img": "images/locations/route_110.png",
+        "codes": "cap_route_110"
+    },
+    {
+        "name": "Route 111",
+        "type": "toggle",
+        "img": "images/locations/route_111.png",
+        "codes": "cap_route_111"
+    },
+    {
+        "name": "Route 112",
+        "type": "toggle",
+        "img": "images/locations/route_112.png",
+        "codes": "cap_route_112"
+    },
+    {
+        "name": "Route 113",
+        "type": "toggle",
+        "img": "images/locations/route_113.png",
+        "codes": "cap_route_113"
+    },
+    {
+        "name": "Route 114",
+        "type": "toggle",
+        "img": "images/locations/route_114.png",
+        "codes": "cap_route_114"
+    },
+    {
+        "name": "Route 115",
+        "type": "toggle",
+        "img": "images/locations/route_115.png",
+        "codes": "cap_route_115"
+    },
+    {
+        "name": "Route 116",
+        "type": "toggle",
+        "img": "images/locations/route_116.png",
+        "codes": "cap_route_116"
+    },
+    {
+        "name": "Route 117",
+        "type": "toggle",
+        "img": "images/locations/route_117.png",
+        "codes": "cap_route_117"
+    },
+    {
+        "name": "Route 119",
+        "type": "toggle",
+        "img": "images/locations/route_119.png",
+        "codes": "cap_route_119"
+    },
+    {
+        "name": "Route 120",
+        "type": "toggle",
+        "img": "images/locations/route_120.png",
+        "codes": "cap_route_120"
+    },
+    {
+        "name": "Route 122",
+        "type": "toggle",
+        "img": "images/locations/route_122.png",
+        "codes": "cap_route_122"
+    },
+    {
+        "name": "Route 123",
+        "type": "toggle",
+        "img": "images/locations/route_123.png",
+        "codes": "cap_route_123"
+    },
+    {
+        "name": "Route 124",
+        "type": "toggle",
+        "img": "images/locations/route_124.png",
+        "codes": "cap_route_124"
+    },
+    {
+        "name": "Underwater",
+        "type": "toggle",
+        "img": "images/locations/underwater.png",
+        "codes": "cap_underwater"
+    },
+    {
+        "name": "Aqua Hideout",
+        "type": "toggle",
+        "img": "images/locations/aqua_hideout.png",
+        "codes": "cap_aqua_hideout"
+    },
+    {
+        "name": "Granite Cave",
+        "type": "toggle",
+        "img": "images/locations/granite.png",
+        "codes": "cap_granite"
+    },
+    {
+        "name": "Jagged Pass",
+        "type": "toggle",
+        "img": "images/locations/jagged_pass.png",
+        "codes": "cap_jagged_pass"
+    },
+    {
+        "name": "Magma Hideout",
+        "type": "toggle",
+        "img": "images/locations/magma_hideout.png",
+        "codes": "cap_magma_hideout"
+    },
+    {
+        "name": "Meteor Falls",
+        "type": "toggle",
+        "img": "images/locations/meteor_falls.png",
+        "codes": "cap_meteor_falls"
+    },
+    {
+        "name": "Mirage Tower",
+        "type": "toggle",
+        "img": "images/locations/mirage_tower.png",
+        "codes": "cap_mirage_tower"
+    },
+    {
+        "name": "Navel Rock",
+        "type": "toggle",
+        "img": "images/locations/navel_rock.png",
+        "codes": "cap_navel_rock"
+    },
+    {
+        "name": "Petalburg Woods",
+        "type": "toggle",
+        "img": "images/locations/petalburg_woods.png",
+        "codes": "cap_petalburg_woods"
+    },
+    {
+        "name": "Mt. Pyre",
+        "type": "toggle",
+        "img": "images/locations/mt_pyre.png",
+        "codes": "cap_mt_pyre"
+    },
+    {
+        "name": "Rusturf Tunnel",
+        "type": "toggle",
+        "img": "images/locations/rusturf_tunnel.png",
+        "codes": "cap_rusturf_tunnel"
+    },
+    {
+        "name": "Seafloor Cavern",
+        "type": "toggle",
+        "img": "images/locations/seafloor_cavern.png",
+        "codes": "cap_seafloor_cavern"
+    },
+    {
+        "name": "Abandoned Ship",
+        "type": "toggle",
+        "img": "images/locations/ship.png",
+        "codes": "cap_ship"
+    },
+    {
+        "name": "Sky Pillar",
+        "type": "toggle",
+        "img": "images/locations/sky_pillar.png",
+        "codes": "cap_sky_pillar"
+    },
+    {
+        "name": "Victory Road",
+        "type": "toggle",
+        "img": "images/locations/victory_road.png",
+        "codes": "cap_victory_road"
+    }
+]

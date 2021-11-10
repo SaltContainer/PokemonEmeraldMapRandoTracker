@@ -57,6 +57,27 @@
                 ],
                 [
                     "custom1", "custom2", "custom3", "custom4", "custom5", "custom6", "custom7", "custom8"
+                ],
+                [
+                    "", "", "", "", "", "", "", ""
+                ],
+                [
+                    "cap_oldale", "cap_petalburg", "cap_rustboro", "cap_dewford", "cap_slateport", "cap_mauville", "cap_verdanturf", "cap_lavaridge"
+                ],
+                [
+                    "cap_fallarbor", "cap_fortree", "cap_lilycove", "cap_mossdeep", "cap_sootopolis", "cap_pacifidlog", "cap_ever_grande", "cap_route_104"
+                ],
+                [
+                    "cap_route_105", "cap_route_106", "cap_route_108", "cap_route_109", "cap_route_110", "cap_route_111", "cap_route_112", "cap_route_113"
+                ],
+                [
+                    "cap_route_114", "cap_route_115", "cap_route_116", "cap_route_117", "cap_route_119", "cap_route_120", "cap_route_122", "cap_route_123"
+                ],
+                [
+                    "cap_route_124", "cap_underwater", "cap_aqua_hideout", "cap_granite", "cap_jagged_pass", "cap_magma_hideout", "cap_meteor_falls", "cap_mirage_tower"
+                ],
+                [
+                    "cap_navel_rock", "cap_petalburg_woods", "cap_mt_pyre", "cap_rusturf_tunnel", "cap_seafloor_cavern", "cap_ship", "cap_sky_pillar", "cap_victory_road"
                 ]
             ]
         }

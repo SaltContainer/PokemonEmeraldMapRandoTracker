@@ -6,7 +6,21 @@
         "chest_opened_img": "images/chests/opened.png",
 		"sections": [
 			{
-				"name": "Warp",
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
                 "capture_item": true,
 				"access_rules": [],
 				"visibility_rules": [],
@@ -28,7 +42,21 @@
         "chest_opened_img": "images/chests/opened.png",
 		"sections": [
 			{
-				"name": "Warp",
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
                 "capture_item": true,
 				"access_rules": [],
 				"visibility_rules": [],
@@ -50,7 +78,21 @@
         "chest_opened_img": "images/chests/opened.png",
 		"sections": [
 			{
-				"name": "Warp",
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
                 "capture_item": true,
 				"access_rules": [],
 				"visibility_rules": [],
@@ -72,7 +114,21 @@
         "chest_opened_img": "images/chests/opened.png",
 		"sections": [
 			{
-				"name": "Warp",
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
                 "capture_item": true,
 				"access_rules": [],
 				"visibility_rules": [],

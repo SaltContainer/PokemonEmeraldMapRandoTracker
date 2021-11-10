@@ -28,6 +28,80 @@
 			}
         ]
     },
+	"lilycove": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "City",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove"
+					]
+				  }
+				},
+				{
+				  "title": "Contest Hall",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_hall"
+					]
+				  }
+				},
+				{
+				  "title": "Department Store 1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_dept_1f"
+					]
+				  }
+				},
+				{
+				  "title": "Department Store 2F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_dept_2f"
+					]
+				  }
+				},
+				{
+				  "title": "Department Store 3F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_dept_3f"
+					]
+				  }
+				},
+				{
+				  "title": "Department Store 4F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_dept_4f"
+					]
+				  }
+				},
+				{
+				  "title": "Department Store 5F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"lilycove_dept_5f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
     "sootopolis": {
         "type": "container",
         "background": "#877373",
@@ -79,6 +153,460 @@
 					"type": "map",
 					"maps": [
 						"ever_grande_center"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"aqua_hideout": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "B1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"aqua_hideout_b1f"
+					]
+				  }
+				},
+				{
+				  "title": "B2F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"aqua_hideout_b2f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"granite": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"granite_1f"
+					]
+				  }
+				},
+				{
+					"title": "B1F",
+					"content": {
+						"type": "map",
+						"maps": [
+							"granite_b1f"
+						]
+					}
+				},
+				{
+				  "title": "B2F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"granite_b2f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"magma_hideout": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"magma_hideout_1f"
+					]
+				  }
+				},
+				{
+					"title": "2F",
+					"content": {
+						"type": "map",
+						"maps": [
+							"magma_hideout_2f"
+						]
+					}
+				},
+				{
+				  "title": "3F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"magma_hideout_3f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"meteor_falls": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F Front",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"meteor_falls_front"
+					]
+				  }
+				},
+				{
+					"title": "1F Back",
+					"content": {
+						"type": "map",
+						"maps": [
+							"meteor_falls_back"
+						]
+					}
+				},
+				{
+				  "title": "B1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"meteor_falls_b1f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"mirage_tower": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mirage_tower_1f"
+					]
+				  }
+				},
+				{
+					"title": "2F",
+					"content": {
+						"type": "map",
+						"maps": [
+							"mirage_tower_2f"
+						]
+					}
+				},
+				{
+				  "title": "3F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mirage_tower_3f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"mt_pyre": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mt_pyre_1f"
+					]
+				  }
+				},
+				{
+					"title": "2F",
+					"content": {
+						"type": "map",
+						"maps": [
+							"mt_pyre_2f"
+						]
+					}
+				},
+				{
+				  "title": "3F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mt_pyre_3f"
+					]
+				  }
+				},
+				{
+				  "title": "4F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mt_pyre_4f"
+					]
+				  }
+				},
+				{
+				  "title": "5F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"mt_pyre_5f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"seafloor_cavern": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "Room 1",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"seafloor_cavern_1"
+					]
+				  }
+				},
+				{
+					"title": "Room 2",
+					"content": {
+						"type": "map",
+						"maps": [
+							"seafloor_cavern_2"
+						]
+					}
+				},
+				{
+				  "title": "Room 3",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"seafloor_cavern_3"
+					]
+				  }
+				},
+				{
+				  "title": "Room 4",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"seafloor_cavern_4"
+					]
+				  }
+				},
+				{
+				  "title": "Room 5",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"seafloor_cavern_5"
+					]
+				  }
+				},
+				{
+				  "title": "Room 6",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"seafloor_cavern_6"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"ship": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"ship_1f"
+					]
+				  }
+				},
+				{
+				  "title": "B1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"ship_b1f"
+					]
+				  }
+				},
+				{
+				  "title": "Rooms",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"ship_rooms"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"sky_pillar": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "Entrance",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"sky_pillar_entrance"
+					]
+				  }
+				},
+				{
+				  "title": "1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"sky_pillar_1f"
+					]
+				  }
+				},
+				{
+				  "title": "2F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"sky_pillar_2f"
+					]
+				  }
+				},
+				{
+				  "title": "3F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"sky_pillar_3f"
+					]
+				  }
+				},
+				{
+				  "title": "4F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"sky_pillar_4f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"victory_road": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "B1F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"victory_road_b1f"
+					]
+				  }
+				},
+				{
+				  "title": "B2F",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"victory_road_b2f"
+					]
+				  }
+				}
+			  ]
+			}
+        ]
+    },
+	"underwater": {
+        "type": "container",
+        "background": "#877373",
+        "content": [
+            {
+			  "type": "tabbed",
+			  "tabs": [
+				{
+				  "title": "Route 126",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"underwater_sootopolis"
+					]
+				  }
+				},
+				{
+				  "title": "Route 128",
+				  "content": {
+					"type": "map",
+					"maps": [
+						"underwater_route_128"
 					]
 				  }
 				}
@@ -215,10 +743,8 @@
 					{
 					  "title": "Lilycove City",
 					  "content": {
-						"type": "map",
-						"maps": [
-							"lilycove"
-						]
+						"type": "layout",
+						"key": "lilycove"
 					  }
 					},
 					{
@@ -251,6 +777,281 @@
                         "content": {
                           "type": "layout",
                           "key": "ever_grande"
+                        }
+                    },
+                    {
+                        "title": "Route 104",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_104"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 105",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_105"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 106",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_106"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 108",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_108"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 109",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_109"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 110",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_110"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 111",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_111"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 112",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_112"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 113",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_113"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 114",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_114"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 115",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_115"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 116",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_116"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 117",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_117"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 119",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_119"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 120",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_120"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 122",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_122"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 123",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_123"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Route 124",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "route_124"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Underwater",
+                        "content": {
+                          "type": "layout",
+                          "key": "underwater"
+                        }
+                    },
+                    {
+                        "title": "Aqua Hideout",
+                        "content": {
+                          "type": "layout",
+                          "key": "aqua_hideout"
+                        }
+                    },
+                    {
+                        "title": "Granite Cave",
+                        "content": {
+                          "type": "layout",
+                          "key": "granite"
+                        }
+                    },
+					{
+                        "title": "Jagged Pass",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "jagged_pass"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Magma Hideout",
+                        "content": {
+                          "type": "layout",
+                          "key": "magma_hideout"
+                        }
+                    },
+                    {
+                        "title": "Meteor Falls",
+                        "content": {
+                          "type": "layout",
+                          "key": "meteor_falls"
+                        }
+                    },
+                    {
+                        "title": "Mirage Tower",
+                        "content": {
+                          "type": "layout",
+                          "key": "mirage_tower"
+                        }
+                    },
+					{
+                        "title": "Navel Rock",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "navel_rock"
+                          ]
+                        }
+                    },
+					{
+                        "title": "Petalburg Woods",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "petalburg_woods"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Mt. Pyre",
+                        "content": {
+                          "type": "layout",
+                          "key": "mt_pyre"
+                        }
+                    },
+					{
+                        "title": "Rusturf Tunnel",
+                        "content": {
+                          "type": "map",
+                          "maps": [
+                              "rusturf_tunnel"
+                          ]
+                        }
+                    },
+                    {
+                        "title": "Seafloor Cavern",
+                        "content": {
+                          "type": "layout",
+                          "key": "seafloor_cavern"
+                        }
+                    },
+                    {
+                        "title": "Abandoned Ship",
+                        "content": {
+                          "type": "layout",
+                          "key": "ship"
+                        }
+                    },
+                    {
+                        "title": "Sky Pillar",
+                        "content": {
+                          "type": "layout",
+                          "key": "sky_pillar"
+                        }
+                    },
+                    {
+                        "title": "Victory Road",
+                        "content": {
+                          "type": "layout",
+                          "key": "victory_road"
                         }
                     }
 				  ]

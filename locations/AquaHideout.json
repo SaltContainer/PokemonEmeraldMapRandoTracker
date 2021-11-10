@@ -1,0 +1,794 @@
+[
+	{
+		"name": "Aqua Hideout B1F S, NW Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 56,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B1F S, SW Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 56,
+				"y": 328
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B1F S, E Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 520,
+				"y": 312
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B1F NE, W Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 440,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B1F NE, E Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 504,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B1F NE, Stairs",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 472,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 1, N",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 728,
+				"y": 56
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 1, W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 680,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 1, C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 728,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 1, E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 776,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 2, W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 680,
+				"y": 152
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 2, C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 728,
+				"y": 152
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 2, E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 776,
+				"y": 152
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 3, W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 680,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 3, C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 728,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 3, E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 776,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 4, W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 680,
+				"y": 280
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 4, C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 728,
+				"y": 280
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout Warps 4, E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b1f",
+				"x": 776,
+				"y": 280
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B2F, W Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b2f",
+				"x": 72,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B2F, E Teleporter",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b2f",
+				"x": 280,
+				"y": 136
+			}
+		]
+	},
+	{
+		"name": "Aqua Hideout B2F, Stairs",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "aqua_hideout_b2f",
+				"x": 72,
+				"y": 24
+			}
+		]
+	}
+]

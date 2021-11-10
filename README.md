@@ -15,11 +15,9 @@ It's an EmoTracker pack with maps for the [Universal Warp Randomizer](https://ww
 
 ## Usage
 
-It is recommended to turn on Fast Tool Tips to see the descriptions of the items and settings options.
+It is recommended to turn on Fast Tool Tips to see the descriptions of the items.
 
-### Settings Options
 
-TBD
 
 ## Bugs? Suggestions?
 
