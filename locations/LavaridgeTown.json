@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Oldale Pokémon Center",
+		"name": "Lavaridge Pokémon Center",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,9 +29,297 @@
 		],
 		"map_locations": [
 			{
-				"map": "oldale",
+				"map": "lavaridge",
+				"x": 152,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Pokémon Mart",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge",
+				"x": 248,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Hot Spring",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge",
+				"x": 152,
+				"y": 40
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Gym",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge",
+				"x": 88,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Lavaridge House S",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge",
+				"x": 200,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Lavaridge House SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge",
+				"x": 264,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Pokémon Center Entrance",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge_center",
 				"x": 104,
-				"y": 264
+				"y": 136
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Pokémon Center Stairs",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge_center",
+				"x": 24,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lavaridge Pokémon Center Hot Spring Entrance",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lavaridge_center",
+				"x": 40,
+				"y": 24
 			}
 		]
 	}

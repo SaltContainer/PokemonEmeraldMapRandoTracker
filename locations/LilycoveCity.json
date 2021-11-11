@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Oldale Pokémon Center",
+		"name": "Lilycove Pokémon Center",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,9 +29,909 @@
 		],
 		"map_locations": [
 			{
-				"map": "oldale",
-				"x": 104,
-				"y": 264
+				"map": "lilycove",
+				"x": 392,
+				"y": 232
+			}
+		]
+	},
+	{
+		"name": "Lilycove Contest Hall",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 376,
+				"y": 392
+			}
+		]
+	},
+	{
+		"name": "Lilycove Harbor",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 200,
+				"y": 520
+			}
+		]
+	},
+	{
+		"name": "Lilycove Museum",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 184,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lilycove Department Store",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 440,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lilycove Motel",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 600,
+				"y": 392
+			}
+		]
+	},
+	{
+		"name": "Lilycove Aqua Hideout Entrance",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 1128,
+				"y": 88
+			}
+		]
+	},
+	{
+		"name": "Lilycove House W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 200,
+				"y": 232
+			}
+		]
+	},
+	{
+		"name": "Lilycove House SW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 184,
+				"y": 360
+			}
+		]
+	},
+	{
+		"name": "Lilycove House C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 632,
+				"y": 232
+			}
+		]
+	},
+	{
+		"name": "Lilycove House N",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 584,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lilycove House NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 680,
+				"y": 104
+			}
+		]
+	},
+	{
+		"name": "Lilycove House E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove",
+				"x": 888,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Lilycove Contest Hall Entrance",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_hall",
+				"x": 232,
+				"y": 184
+			}
+		]
+	},
+	{
+		"name": "Lilycove Contest Hall NW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_hall",
+				"x": 152,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Contest Hall NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_hall",
+				"x": 344,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 1F Entrance",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_1f",
+				"x": 136,
+				"y": 120
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 1F Stairs",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_1f",
+				"x": 264,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 2F Stairs NNE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_2f",
+				"x": 216,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 2F Stairs NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_2f",
+				"x": 264,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 3F Stairs NNE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_3f",
+				"x": 216,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 3F Stairs NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_3f",
+				"x": 264,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 4F Stairs NNE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_4f",
+				"x": 216,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 4F Stairs NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_4f",
+				"x": 264,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 5F Stairs NNE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_5f",
+				"x": 216,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Lilycove Dept. 5F Stairs NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "lilycove_dept_5f",
+				"x": 264,
+				"y": 24
 			}
 		]
 	}
