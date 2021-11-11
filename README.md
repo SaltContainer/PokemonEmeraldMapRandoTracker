@@ -15,9 +15,7 @@ It's an EmoTracker pack with maps for the [Universal Warp Randomizer](https://ww
 
 ## Usage
 
-It is recommended to turn on Fast Tool Tips to see the descriptions of the items.
-
-
+Each warp can be given 3 "tags" that range from "Surf Needed" to "Dead End" to "First Gym". There are also tags for each Hub as well as 8 extra "custom" tags that you can use as extra info. To add a tag to a warp, simply click on the warp, click one of the outlined squares, and finally click one of the tags. It is recommended to turn on Fast Tool Tips to see the descriptions of the tags. Avoid clicking on the Pokéballs, as clicking on all 3 Pokéballs of a warp will make it disappear unless "Show All Locations" is on.
 
 ## Bugs? Suggestions?
 
