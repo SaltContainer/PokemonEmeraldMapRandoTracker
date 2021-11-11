@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Oldale Pokémon Center",
+		"name": "Seafloor Cavern Room 1, Entrance SW",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,9 +29,693 @@
 		],
 		"map_locations": [
 			{
-				"map": "oldale",
+				"map": "seafloor_cavern_1",
+				"x": 88,
+				"y": 296
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 1, Entrance SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_1",
+				"x": 280,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 1, Entrance N",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_1",
 				"x": 104,
-				"y": 264
+				"y": 40
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 2, Entrance SW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_2",
+				"x": 120,
+				"y": 280
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 2, Entrance SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_2",
+				"x": 248,
+				"y": 200
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 2, Entrance N",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_2",
+				"x": 72,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 3, Entrance S",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_3",
+				"x": 168,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 3, Entrance C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_3",
+				"x": 152,
+				"y": 168
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 3, Entrance NW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_3",
+				"x": 72,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 3, Entrance NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_3",
+				"x": 216,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 4, Entrance SW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_4",
+				"x": 72,
+				"y": 168
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 4, Entrance SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_4",
+				"x": 168,
+				"y": 120
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 4, Entrance NW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_4",
+				"x": 104,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 4, Entrance NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_4",
+				"x": 184,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 5, Entrance S",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_5",
+				"x": 184,
+				"y": 344
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 5, Entrance C",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_5",
+				"x": 232,
+				"y": 136
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 5, Entrance NW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_5",
+				"x": 72,
+				"y": 24
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 6, Entrance SW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_6",
+				"x": 72,
+				"y": 248
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 6, Entrance SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_6",
+				"x": 152,
+				"y": 216
+			}
+		]
+	},
+	{
+		"name": "Seafloor Cavern Room 6, Entrance N",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "seafloor_cavern_6",
+				"x": 136,
+				"y": 24
 			}
 		]
 	}

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Oldale Pokémon Center",
+		"name": "Route 115 Meteor Falls",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,9 +29,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "oldale",
+				"map": "route_115",
 				"x": 104,
-				"y": 264
+				"y": 56
 			}
 		]
 	}

@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Route 114 Fossil Maniac",
+		"name": "Rusturf Tunnel Entrance W",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,14 +29,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "route_114",
-				"x": 264,
-				"y": 88
+				"map": "rusturf_tunnel",
+				"x": 72,
+				"y": 168
 			}
 		]
 	},
 	{
-		"name": "Route 114 Lanette's House",
+		"name": "Rusturf Tunnel Entrance S",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -65,14 +65,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "route_114",
-				"x": 248,
-				"y": 216
+				"map": "rusturf_tunnel",
+				"x": 296,
+				"y": 328
 			}
 		]
 	},
 	{
-		"name": "Route 114 Meteor Falls",
+		"name": "Rusturf Tunnel Entrance SE",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -101,9 +101,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "route_114",
-				"x": 88,
-				"y": 216
+				"map": "rusturf_tunnel",
+				"x": 472,
+				"y": 264
 			}
 		]
 	}

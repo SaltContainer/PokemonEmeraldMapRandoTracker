@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Oldale Pokémon Center",
+		"name": "Rustboro Pokémon Center",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -29,9 +29,369 @@
 		],
 		"map_locations": [
 			{
-				"map": "oldale",
-				"x": 104,
-				"y": 264
+				"map": "rustboro",
+				"x": 264,
+				"y": 504
+			}
+		]
+	},
+	{
+		"name": "Rustboro Pokémon Mart",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 264,
+				"y": 616
+			}
+		]
+	},
+	{
+		"name": "Rustboro Gym",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 440,
+				"y": 200
+			}
+		]
+	},
+	{
+		"name": "Rustboro Devon Corp.",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 184,
+				"y": 136
+			}
+		]
+	},
+	{
+		"name": "Rustboro House NE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 536,
+				"y": 200
+			}
+		]
+	},
+	{
+		"name": "Rustboro House E",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 488,
+				"y": 344
+			}
+		]
+	},
+	{
+		"name": "Rustboro Trainer School",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 440,
+				"y": 440
+			}
+		]
+	},
+	{
+		"name": "Rustboro House SE",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 424,
+				"y": 632
+			}
+		]
+	},
+	{
+		"name": "Rustboro House NW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 216,
+				"y": 376
+			}
+		]
+	},
+	{
+		"name": "Rustboro House W",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 152,
+				"y": 504
+			}
+		]
+	},
+	{
+		"name": "Rustboro House SW",
+		"color": "#872ea2",
+		"chest_unopened_img": "images/chests/closed.png",
+        "chest_opened_img": "images/chests/opened.png",
+		"sections": [
+			{
+				"name": "Tag 1",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 2",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			},
+			{
+				"name": "Tag 3",
+                "capture_item": true,
+				"access_rules": [],
+				"visibility_rules": [],
+				"item_count": 1
+			}
+		],
+		"map_locations": [
+			{
+				"map": "rustboro",
+				"x": 88,
+				"y": 712
 			}
 		]
 	}
