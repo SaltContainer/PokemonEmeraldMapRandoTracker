@@ -2,7 +2,7 @@
     "name": "Pokémon Emerald Map Randomizer Tracker",
     "game_name": "Pokémon Emerald",
     "platform": "gba",
-    "package_version": "0.1",
+    "package_version": "0.2",
     "package_uid": "pokemon_emerald_map_randomizer_saltcontainer",
     "author": "SaltContainer",
     "variants": {
