@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_1f",
+				"map": "granite",
 				"x": 88,
 				"y": 168
 			}
@@ -65,7 +65,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_1f",
+				"map": "granite",
 				"x": 600,
 				"y": 200
 			}
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_1f",
+				"map": "granite",
 				"x": 280,
 				"y": 184
 			}
@@ -137,7 +137,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_1f",
+				"map": "granite",
 				"x": 568,
 				"y": 56
 			}
@@ -173,9 +173,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b1f",
-				"x": 72,
-				"y": 344
+				"map": "granite",
+				"x": 232,
+				"y": 600
 			}
 		]
 	},
@@ -209,9 +209,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b1f",
-				"x": 456,
-				"y": 344
+				"map": "granite",
+				"x": 616,
+				"y": 600
 			}
 		]
 	},
@@ -245,9 +245,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b1f",
-				"x": 136,
-				"y": 88
+				"map": "granite",
+				"x": 296,
+				"y": 344
 			}
 		]
 	},
@@ -281,9 +281,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b1f",
-				"x": 200,
-				"y": 56
+				"map": "granite",
+				"x": 360,
+				"y": 312
 			}
 		]
 	},
@@ -317,9 +317,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b1f",
-				"x": 472,
-				"y": 40
+				"map": "granite",
+				"x": 632,
+				"y": 296
 			}
 		]
 	},
@@ -353,9 +353,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b2f",
-				"x": 136,
-				"y": 88
+				"map": "granite",
+				"x": 296,
+				"y": 776
 			}
 		]
 	},
@@ -389,9 +389,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "granite_b2f",
-				"x": 200,
-				"y": 56
+				"map": "granite",
+				"x": 360,
+				"y": 744
 			}
 		]
 	}

@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "underwater_sootopolis",
+				"map": "underwater",
 				"x": 152,
 				"y": 88
 			}
@@ -65,9 +65,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "underwater_route_128",
+				"map": "underwater",
 				"x": 136,
-				"y": 120
+				"y": 328
 			}
 		]
 	}

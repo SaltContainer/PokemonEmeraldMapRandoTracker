@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 88,
 				"y": 424
 			}
@@ -65,7 +65,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 280,
 				"y": 264
 			}
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 328,
 				"y": 344
 			}
@@ -137,7 +137,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 136,
 				"y": 56
 			}
@@ -173,7 +173,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 488,
 				"y": 408
 			}
@@ -209,7 +209,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b1f",
+				"map": "victory_road",
 				"x": 680,
 				"y": 408
 			}
@@ -245,9 +245,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b2f",
+				"map": "victory_road",
 				"x": 88,
-				"y": 424
+				"y": 936
 			}
 		]
 	},
@@ -281,9 +281,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b2f",
+				"map": "victory_road",
 				"x": 312,
-				"y": 200
+				"y": 712
 			}
 		]
 	},
@@ -317,9 +317,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b2f",
+				"map": "victory_road",
 				"x": 488,
-				"y": 408
+				"y": 920
 			}
 		]
 	},
@@ -353,9 +353,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "victory_road_b2f",
+				"map": "victory_road",
 				"x": 696,
-				"y": 40
+				"y": 552
 			}
 		]
 	}

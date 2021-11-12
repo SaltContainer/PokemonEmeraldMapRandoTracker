@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_1f",
+				"map": "mt_pyre",
 				"x": 56,
 				"y": 104
 			}
@@ -65,7 +65,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_1f",
+				"map": "mt_pyre",
 				"x": 280,
 				"y": 296
 			}
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_1f",
+				"map": "mt_pyre",
 				"x": 184,
 				"y": 24
 			}
@@ -137,7 +137,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_1f",
+				"map": "mt_pyre",
 				"x": 328,
 				"y": 152
 			}
@@ -173,8 +173,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_2f",
-				"x": 40,
+				"map": "mt_pyre",
+				"x": 408,
 				"y": 24
 			}
 		]
@@ -209,8 +209,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_2f",
-				"x": 168,
+				"map": "mt_pyre",
+				"x": 536,
 				"y": 24
 			}
 		]
@@ -245,8 +245,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_2f",
-				"x": 184,
+				"map": "mt_pyre",
+				"x": 552,
 				"y": 152
 			}
 		]
@@ -281,8 +281,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_2f",
-				"x": 104,
+				"map": "mt_pyre",
+				"x": 472,
 				"y": 200
 			}
 		]
@@ -317,8 +317,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_2f",
-				"x": 168,
+				"map": "mt_pyre",
+				"x": 536,
 				"y": 200
 			}
 		]
@@ -353,8 +353,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_3f",
-				"x": 40,
+				"map": "mt_pyre",
+				"x": 632,
 				"y": 24
 			}
 		]
@@ -389,8 +389,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_3f",
-				"x": 168,
+				"map": "mt_pyre",
+				"x": 760,
 				"y": 24
 			}
 		]
@@ -425,8 +425,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_3f",
-				"x": 168,
+				"map": "mt_pyre",
+				"x": 760,
 				"y": 200
 			}
 		]
@@ -461,8 +461,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_3f",
-				"x": 152,
+				"map": "mt_pyre",
+				"x": 744,
 				"y": 168
 			}
 		]
@@ -497,9 +497,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_4f",
+				"map": "mt_pyre",
 				"x": 40,
-				"y": 88
+				"y": 408
 			}
 		]
 	},
@@ -533,9 +533,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_4f",
+				"map": "mt_pyre",
 				"x": 168,
-				"y": 24
+				"y": 344
 			}
 		]
 	},
@@ -569,9 +569,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_4f",
+				"map": "mt_pyre",
 				"x": 152,
-				"y": 168
+				"y": 488
 			}
 		]
 	},
@@ -605,9 +605,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_4f",
+				"map": "mt_pyre",
 				"x": 200,
-				"y": 168
+				"y": 488
 			}
 		]
 	},
@@ -641,9 +641,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_5f",
-				"x": 24,
-				"y": 24
+				"map": "mt_pyre",
+				"x": 248,
+				"y": 344
 			}
 		]
 	},
@@ -677,9 +677,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_5f",
-				"x": 200,
-				"y": 24
+				"map": "mt_pyre",
+				"x": 424,
+				"y": 344
 			}
 		]
 	},
@@ -713,9 +713,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mt_pyre_5f",
-				"x": 200,
-				"y": 56
+				"map": "mt_pyre",
+				"x": 424,
+				"y": 376
 			}
 		]
 	}

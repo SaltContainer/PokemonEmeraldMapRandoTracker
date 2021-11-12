@@ -497,9 +497,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sootopolis_underwater",
-				"x": 152,
-				"y": 136
+				"map": "sootopolis",
+				"x": 392,
+				"y": 712
 			}
 		]
 	}

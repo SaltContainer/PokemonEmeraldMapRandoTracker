@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 0,
 				"y": 184
 			}
@@ -65,7 +65,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 88,
 				"y": 40
 			}
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 56,
 				"y": 56
 			}
@@ -137,7 +137,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 56,
 				"y": 152
 			}
@@ -173,7 +173,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 136,
 				"y": 184
 			}
@@ -209,7 +209,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 264,
 				"y": 40
 			}
@@ -245,7 +245,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 184,
 				"y": 56
 			}
@@ -281,7 +281,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 232,
 				"y": 56
 			}
@@ -317,7 +317,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 184,
 				"y": 152
 			}
@@ -353,7 +353,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_1f",
+				"map": "ship",
 				"x": 232,
 				"y": 152
 			}
@@ -389,9 +389,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 8,
-				"y": 40
+				"y": 248
 			}
 		]
 	},
@@ -425,9 +425,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 136,
-				"y": 40
+				"y": 248
 			}
 		]
 	},
@@ -461,9 +461,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 56,
-				"y": 72
+				"y": 280
 			}
 		]
 	},
@@ -497,9 +497,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 104,
-				"y": 72
+				"y": 280
 			}
 		]
 	},
@@ -533,9 +533,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 184,
-				"y": 72
+				"y": 280
 			}
 		]
 	},
@@ -569,9 +569,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 88,
-				"y": 120
+				"y": 328
 			}
 		]
 	},
@@ -605,9 +605,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 136,
-				"y": 120
+				"y": 328
 			}
 		]
 	},
@@ -641,9 +641,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_b1f",
+				"map": "ship",
 				"x": 184,
-				"y": 120
+				"y": 328
 			}
 		]
 	},
@@ -677,9 +677,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_rooms",
-				"x": 216,
-				"y": 24
+				"map": "ship",
+				"x": 440,
+				"y": 120
 			}
 		]
 	},
@@ -713,9 +713,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_rooms",
-				"x": 72,
-				"y": 264
+				"map": "ship",
+				"x": 296,
+				"y": 360
 			}
 		]
 	},
@@ -749,9 +749,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "ship_rooms",
-				"x": 216,
-				"y": 264
+				"map": "ship",
+				"x": 440,
+				"y": 360
 			}
 		]
 	}

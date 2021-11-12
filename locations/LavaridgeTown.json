@@ -245,8 +245,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "lavaridge_center",
-				"x": 104,
+				"map": "lavaridge",
+				"x": 440,
 				"y": 136
 			}
 		]
@@ -281,8 +281,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "lavaridge_center",
-				"x": 24,
+				"map": "lavaridge",
+				"x": 360,
 				"y": 104
 			}
 		]
@@ -317,8 +317,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "lavaridge_center",
-				"x": 40,
+				"map": "lavaridge",
+				"x": 376,
 				"y": 24
 			}
 		]

@@ -29,7 +29,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_1",
+				"map": "seafloor_cavern",
 				"x": 88,
 				"y": 296
 			}
@@ -65,7 +65,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_1",
+				"map": "seafloor_cavern",
 				"x": 280,
 				"y": 216
 			}
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_1",
+				"map": "seafloor_cavern",
 				"x": 104,
 				"y": 40
 			}
@@ -137,8 +137,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_2",
-				"x": 120,
+				"map": "seafloor_cavern",
+				"x": 456,
 				"y": 280
 			}
 		]
@@ -173,8 +173,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_2",
-				"x": 248,
+				"map": "seafloor_cavern",
+				"x": 584,
 				"y": 200
 			}
 		]
@@ -209,8 +209,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_2",
-				"x": 72,
+				"map": "seafloor_cavern",
+				"x": 408,
 				"y": 24
 			}
 		]
@@ -245,8 +245,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_3",
-				"x": 168,
+				"map": "seafloor_cavern",
+				"x": 840,
 				"y": 248
 			}
 		]
@@ -281,8 +281,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_3",
-				"x": 152,
+				"map": "seafloor_cavern",
+				"x": 824,
 				"y": 168
 			}
 		]
@@ -317,8 +317,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_3",
-				"x": 72,
+				"map": "seafloor_cavern",
+				"x": 744,
 				"y": 24
 			}
 		]
@@ -353,8 +353,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_3",
-				"x": 216,
+				"map": "seafloor_cavern",
+				"x": 888,
 				"y": 24
 			}
 		]
@@ -389,9 +389,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_4",
+				"map": "seafloor_cavern",
 				"x": 72,
-				"y": 168
+				"y": 520
 			}
 		]
 	},
@@ -425,9 +425,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_4",
+				"map": "seafloor_cavern",
 				"x": 168,
-				"y": 120
+				"y": 472
 			}
 		]
 	},
@@ -461,9 +461,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_4",
+				"map": "seafloor_cavern",
 				"x": 104,
-				"y": 24
+				"y": 376
 			}
 		]
 	},
@@ -497,9 +497,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_4",
+				"map": "seafloor_cavern",
 				"x": 184,
-				"y": 24
+				"y": 376
 			}
 		]
 	},
@@ -533,9 +533,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_5",
-				"x": 184,
-				"y": 344
+				"map": "seafloor_cavern",
+				"x": 488,
+				"y": 696
 			}
 		]
 	},
@@ -569,9 +569,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_5",
-				"x": 232,
-				"y": 136
+				"map": "seafloor_cavern",
+				"x": 536,
+				"y": 488
 			}
 		]
 	},
@@ -605,9 +605,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_5",
-				"x": 72,
-				"y": 24
+				"map": "seafloor_cavern",
+				"x": 376,
+				"y": 376
 			}
 		]
 	},
@@ -641,9 +641,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_6",
-				"x": 72,
-				"y": 248
+				"map": "seafloor_cavern",
+				"x": 776,
+				"y": 600
 			}
 		]
 	},
@@ -677,9 +677,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_6",
-				"x": 152,
-				"y": 216
+				"map": "seafloor_cavern",
+				"x": 856,
+				"y": 568
 			}
 		]
 	},
@@ -713,9 +713,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "seafloor_cavern_6",
-				"x": 136,
-				"y": 24
+				"map": "seafloor_cavern",
+				"x": 840,
+				"y": 376
 			}
 		]
 	}

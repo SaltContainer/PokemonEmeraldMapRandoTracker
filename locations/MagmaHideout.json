@@ -29,9 +29,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_1f",
-				"x": 168,
-				"y": 552
+				"map": "magma_hideout",
+				"x": 88,
+				"y": 248
 			}
 		]
 	},
@@ -65,9 +65,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_1f",
-				"x": 408,
-				"y": 552
+				"map": "magma_hideout",
+				"x": 328,
+				"y": 248
 			}
 		]
 	},
@@ -101,9 +101,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_1f",
-				"x": 328,
-				"y": 360
+				"map": "magma_hideout",
+				"x": 248,
+				"y": 56
 			}
 		]
 	},
@@ -137,8 +137,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_2f",
-				"x": 136,
+				"map": "magma_hideout",
+				"x": 520,
 				"y": 40
 			}
 		]
@@ -173,8 +173,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_2f",
-				"x": 184,
+				"map": "magma_hideout",
+				"x": 568,
 				"y": 376
 			}
 		]
@@ -209,8 +209,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_2f",
-				"x": 280,
+				"map": "magma_hideout",
+				"x": 664,
 				"y": 536
 			}
 		]
@@ -245,9 +245,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_3f",
+				"map": "magma_hideout",
 				"x": 120,
-				"y": 344
+				"y": 632
 			}
 		]
 	},
@@ -281,9 +281,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_3f",
+				"map": "magma_hideout",
 				"x": 344,
-				"y": 152
+				"y": 440
 			}
 		]
 	},
@@ -317,9 +317,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "magma_hideout_3f",
+				"map": "magma_hideout",
 				"x": 376,
-				"y": 56
+				"y": 344
 			}
 		]
 	}

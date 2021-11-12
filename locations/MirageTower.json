@@ -29,9 +29,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_1f",
+				"map": "mirage_tower",
 				"x": 168,
-				"y": 232
+				"y": 808
 			}
 		]
 	},
@@ -65,9 +65,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_1f",
+				"map": "mirage_tower",
 				"x": 248,
-				"y": 40
+				"y": 616
 			}
 		]
 	},
@@ -101,9 +101,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_2f",
+				"map": "mirage_tower",
 				"x": 248,
-				"y": 40
+				"y": 328
 			}
 		]
 	},
@@ -137,9 +137,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_2f",
+				"map": "mirage_tower",
 				"x": 296,
-				"y": 200
+				"y": 488
 			}
 		]
 	},
@@ -173,7 +173,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_3f",
+				"map": "mirage_tower",
 				"x": 296,
 				"y": 200
 			}
@@ -209,7 +209,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "mirage_tower_3f",
+				"map": "mirage_tower",
 				"x": 40,
 				"y": 72
 			}

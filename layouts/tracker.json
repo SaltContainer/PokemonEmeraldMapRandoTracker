@@ -1,620 +1,5 @@
 {
-	"lavaridge": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "Town",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lavaridge"
-					]
-				  }
-				},
-				{
-				  "title": "Pokémon Center",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lavaridge_center"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"lilycove": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "City",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove"
-					]
-				  }
-				},
-				{
-				  "title": "Contest Hall",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_hall"
-					]
-				  }
-				},
-				{
-				  "title": "Department Store 1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_dept_1f"
-					]
-				  }
-				},
-				{
-				  "title": "Department Store 2F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_dept_2f"
-					]
-				  }
-				},
-				{
-				  "title": "Department Store 3F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_dept_3f"
-					]
-				  }
-				},
-				{
-				  "title": "Department Store 4F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_dept_4f"
-					]
-				  }
-				},
-				{
-				  "title": "Department Store 5F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"lilycove_dept_5f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-    "sootopolis": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "City",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sootopolis"
-					]
-				  }
-				},
-				{
-				  "title": "Underwater",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sootopolis_underwater"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-    "ever_grande": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "City",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"ever_grande"
-					]
-				  }
-				},
-				{
-				  "title": "Pokémon Center",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"ever_grande_center"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"aqua_hideout": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "B1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"aqua_hideout_b1f"
-					]
-				  }
-				},
-				{
-				  "title": "B2F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"aqua_hideout_b2f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"granite": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"granite_1f"
-					]
-				  }
-				},
-				{
-					"title": "B1F",
-					"content": {
-						"type": "map",
-						"maps": [
-							"granite_b1f"
-						]
-					}
-				},
-				{
-				  "title": "B2F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"granite_b2f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"magma_hideout": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"magma_hideout_1f"
-					]
-				  }
-				},
-				{
-					"title": "2F",
-					"content": {
-						"type": "map",
-						"maps": [
-							"magma_hideout_2f"
-						]
-					}
-				},
-				{
-				  "title": "3F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"magma_hideout_3f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"meteor_falls": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F Front",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"meteor_falls_front"
-					]
-				  }
-				},
-				{
-					"title": "1F Back",
-					"content": {
-						"type": "map",
-						"maps": [
-							"meteor_falls_back"
-						]
-					}
-				},
-				{
-				  "title": "B1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"meteor_falls_b1f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"mirage_tower": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mirage_tower_1f"
-					]
-				  }
-				},
-				{
-					"title": "2F",
-					"content": {
-						"type": "map",
-						"maps": [
-							"mirage_tower_2f"
-						]
-					}
-				},
-				{
-				  "title": "3F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mirage_tower_3f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"mt_pyre": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mt_pyre_1f"
-					]
-				  }
-				},
-				{
-					"title": "2F",
-					"content": {
-						"type": "map",
-						"maps": [
-							"mt_pyre_2f"
-						]
-					}
-				},
-				{
-				  "title": "3F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mt_pyre_3f"
-					]
-				  }
-				},
-				{
-				  "title": "4F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mt_pyre_4f"
-					]
-				  }
-				},
-				{
-				  "title": "5F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"mt_pyre_5f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"seafloor_cavern": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "Room 1",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"seafloor_cavern_1"
-					]
-				  }
-				},
-				{
-					"title": "Room 2",
-					"content": {
-						"type": "map",
-						"maps": [
-							"seafloor_cavern_2"
-						]
-					}
-				},
-				{
-				  "title": "Room 3",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"seafloor_cavern_3"
-					]
-				  }
-				},
-				{
-				  "title": "Room 4",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"seafloor_cavern_4"
-					]
-				  }
-				},
-				{
-				  "title": "Room 5",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"seafloor_cavern_5"
-					]
-				  }
-				},
-				{
-				  "title": "Room 6",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"seafloor_cavern_6"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"ship": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"ship_1f"
-					]
-				  }
-				},
-				{
-				  "title": "B1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"ship_b1f"
-					]
-				  }
-				},
-				{
-				  "title": "Rooms",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"ship_rooms"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"sky_pillar": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "Entrance",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sky_pillar_entrance"
-					]
-				  }
-				},
-				{
-				  "title": "1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sky_pillar_1f"
-					]
-				  }
-				},
-				{
-				  "title": "2F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sky_pillar_2f"
-					]
-				  }
-				},
-				{
-				  "title": "3F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sky_pillar_3f"
-					]
-				  }
-				},
-				{
-				  "title": "4F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"sky_pillar_4f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"victory_road": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "B1F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"victory_road_b1f"
-					]
-				  }
-				},
-				{
-				  "title": "B2F",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"victory_road_b2f"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-	"underwater": {
-        "type": "container",
-        "background": "#877373",
-        "content": [
-            {
-			  "type": "tabbed",
-			  "tabs": [
-				{
-				  "title": "Route 126",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"underwater_sootopolis"
-					]
-				  }
-				},
-				{
-				  "title": "Route 128",
-				  "content": {
-					"type": "map",
-					"maps": [
-						"underwater_route_128"
-					]
-				  }
-				}
-			  ]
-			}
-        ]
-    },
-    "tracker_default": {
+	"tracker_default": {
         "type": "container",
         "background": "#877373",
         "content": {
@@ -718,8 +103,10 @@
 					{
 					  "title": "Lavaridge Town",
 					  "content": {
-						"type": "layout",
-						"key": "lavaridge"
+						"type": "map",
+						"maps": [
+							"lavaridge"
+						]
 					  }
 					},
 					{
@@ -743,9 +130,11 @@
 					{
 					  "title": "Lilycove City",
 					  "content": {
-						"type": "layout",
-						"key": "lilycove"
-					  }
+                          "type": "map",
+                          "maps": [
+                              "lilycove"
+                          ]
+                        }
 					},
 					{
 					  "title": "Mossdeep City",
@@ -759,8 +148,10 @@
 					{
 					  "title": "Sootopolis City",
 					  "content": {
-						"type": "layout",
-						"key": "sootopolis"
+						"type": "map",
+						"maps": [
+							"sootopolis"
+						]
 					  }
 					},
                     {
@@ -775,8 +166,10 @@
                     {
                         "title": "Ever Grande City",
                         "content": {
-                          "type": "layout",
-                          "key": "ever_grande"
+							"type": "map",
+							"maps": [
+								"ever_grande"
+							]
                         }
                     },
                     {
@@ -944,22 +337,28 @@
                     {
                         "title": "Underwater",
                         "content": {
-                          "type": "layout",
-                          "key": "underwater"
+							"type": "map",
+							"maps": [
+								"underwater"
+							]
                         }
                     },
                     {
                         "title": "Aqua Hideout",
                         "content": {
-                          "type": "layout",
-                          "key": "aqua_hideout"
+							"type": "map",
+							"maps": [
+								"aqua_hideout"
+							]
                         }
                     },
                     {
                         "title": "Granite Cave",
                         "content": {
-                          "type": "layout",
-                          "key": "granite"
+							"type": "map",
+							"maps": [
+								"granite"
+							]
                         }
                     },
 					{
@@ -974,22 +373,28 @@
                     {
                         "title": "Magma Hideout",
                         "content": {
-                          "type": "layout",
-                          "key": "magma_hideout"
+							"type": "map",
+							"maps": [
+								"magma_hideout"
+							]
                         }
                     },
                     {
                         "title": "Meteor Falls",
                         "content": {
-                          "type": "layout",
-                          "key": "meteor_falls"
+							"type": "map",
+							"maps": [
+								"meteor_falls"
+							]
                         }
                     },
                     {
                         "title": "Mirage Tower",
                         "content": {
-                          "type": "layout",
-                          "key": "mirage_tower"
+							"type": "map",
+							"maps": [
+								"mirage_tower"
+							]
                         }
                     },
 					{
@@ -1013,8 +418,10 @@
                     {
                         "title": "Mt. Pyre",
                         "content": {
-                          "type": "layout",
-                          "key": "mt_pyre"
+							"type": "map",
+							"maps": [
+								"mt_pyre"
+							]
                         }
                     },
 					{
@@ -1029,29 +436,37 @@
                     {
                         "title": "Seafloor Cavern",
                         "content": {
-                          "type": "layout",
-                          "key": "seafloor_cavern"
+							"type": "map",
+							"maps": [
+								"seafloor_cavern"
+							]
                         }
                     },
                     {
                         "title": "Abandoned Ship",
                         "content": {
-                          "type": "layout",
-                          "key": "ship"
+							"type": "map",
+							"maps": [
+								"ship"
+							]
                         }
                     },
                     {
                         "title": "Sky Pillar",
                         "content": {
-                          "type": "layout",
-                          "key": "sky_pillar"
+							"type": "map",
+							"maps": [
+								"sky_pillar"
+							]
                         }
                     },
                     {
                         "title": "Victory Road",
                         "content": {
-                          "type": "layout",
-                          "key": "victory_road"
+							"type": "map",
+							"maps": [
+								"victory_road"
+							]
                         }
                     }
 				  ]

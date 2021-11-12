@@ -198,34 +198,16 @@
         "img": "images/maps/route_124.png"
     },
     {
-        "name": "aqua_hideout_b1f",
+        "name": "aqua_hideout",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/aqua_hideout_b1f.png"
+        "img": "images/maps/aqua_hideout.png"
     },
     {
-        "name": "aqua_hideout_b2f",
+        "name": "granite",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/aqua_hideout_b2f.png"
-    },
-    {
-        "name": "granite_1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/granite_1f.png"
-    },
-    {
-        "name": "granite_b1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/granite_b1f.png"
-    },
-    {
-        "name": "granite_b2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/granite_b2f.png"
+        "img": "images/maps/granite.png"
     },
     {
         "name": "jagged_pass",
@@ -234,58 +216,22 @@
         "img": "images/maps/jagged_pass.png"
     },
     {
-        "name": "magma_hideout_1f",
+        "name": "magma_hideout",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/magma_hideout_1f.png"
+        "img": "images/maps/magma_hideout.png"
     },
     {
-        "name": "magma_hideout_2f",
+        "name": "meteor_falls",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/magma_hideout_2f.png"
+        "img": "images/maps/meteor_falls.png"
     },
     {
-        "name": "magma_hideout_3f",
+        "name": "mirage_tower",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/magma_hideout_3f.png"
-    },
-    {
-        "name": "meteor_falls_front",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/meteor_falls_front.png"
-    },
-    {
-        "name": "meteor_falls_back",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/meteor_falls_back.png"
-    },
-    {
-        "name": "meteor_falls_b1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/meteor_falls_b1f.png"
-    },
-    {
-        "name": "mirage_tower_1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/mirage_tower_1f.png"
-    },
-    {
-        "name": "mirage_tower_2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/mirage_tower_2f.png"
-    },
-    {
-        "name": "mirage_tower_3f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/mirage_tower_3f.png"
+        "img": "images/maps/mirage_tower.png"
     },
     {
         "name": "navel_rock",
@@ -300,34 +246,10 @@
         "img": "images/maps/petalburg_woods.png"
     },
     {
-        "name": "mt_pyre_1f",
+        "name": "mt_pyre",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/pyre_1f.png"
-    },
-    {
-        "name": "mt_pyre_2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/pyre_2f.png"
-    },
-    {
-        "name": "mt_pyre_3f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/pyre_3f.png"
-    },
-    {
-        "name": "mt_pyre_4f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/pyre_4f.png"
-    },
-    {
-        "name": "mt_pyre_5f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/pyre_5f.png"
+        "img": "images/maps/pyre.png"
     },
     {
         "name": "rusturf_tunnel",
@@ -336,165 +258,33 @@
         "img": "images/maps/rusturf_tunnel.png"
     },
     {
-        "name": "seafloor_cavern_1",
+        "name": "seafloor_cavern",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_1.png"
+        "img": "images/maps/seafloor.png"
     },
     {
-        "name": "seafloor_cavern_2",
+        "name": "ship",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_2.png"
+        "img": "images/maps/ship.png"
     },
     {
-        "name": "seafloor_cavern_3",
+        "name": "sky_pillar",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_3.png"
+        "img": "images/maps/sky_pillar.png"
     },
     {
-        "name": "seafloor_cavern_4",
+        "name": "victory_road",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_4.png"
+        "img": "images/maps/victory_road.png"
     },
     {
-        "name": "seafloor_cavern_5",
+        "name": "underwater",
 		"location_size": 16,
 		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_5.png"
-    },
-    {
-        "name": "seafloor_cavern_6",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/seafloor_room_6.png"
-    },
-    {
-        "name": "ship_1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/ship_1f.png"
-    },
-    {
-        "name": "ship_b1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/ship_b1f.png"
-    },
-    {
-        "name": "ship_rooms",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/ship_rooms_hub.png"
-    },
-    {
-        "name": "sky_pillar_1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sky_pillar_1f.png"
-    },
-    {
-        "name": "sky_pillar_2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sky_pillar_2f.png"
-    },
-    {
-        "name": "sky_pillar_3f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sky_pillar_3f.png"
-    },
-    {
-        "name": "sky_pillar_4f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sky_pillar_4f.png"
-    },
-    {
-        "name": "sky_pillar_entrance",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sky_pillar_entrance.png"
-    },
-    {
-        "name": "victory_road_b1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/victory_road_b1f.png"
-    },
-    {
-        "name": "victory_road_b2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/victory_road_b2f.png"
-    },
-    {
-        "name": "underwater_route_128",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/underwater_route_128.png"
-    },
-    {
-        "name": "underwater_sootopolis",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/underwater_sootopolis.png"
-    },
-    {
-        "name": "lavaridge_center",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/center_lavaridge.png"
-    },
-    {
-        "name": "lilycove_hall",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/contest_hall.png"
-    },
-    {
-        "name": "lilycove_dept_1f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/dept_1f.png"
-    },
-    {
-        "name": "lilycove_dept_2f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/dept_2f.png"
-    },
-    {
-        "name": "lilycove_dept_3f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/dept_3f.png"
-    },
-    {
-        "name": "lilycove_dept_4f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/dept_4f.png"
-    },
-    {
-        "name": "lilycove_dept_5f",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/dept_5f.png"
-    },
-    {
-        "name": "sootopolis_underwater",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/sootopolis_dive.png"
-    },
-    {
-        "name": "ever_grande_center",
-		"location_size": 16,
-		"location_border_thickness": 1,
-        "img": "images/maps/center_ever_grande.png"
+        "img": "images/maps/underwater.png"
     }
 ]

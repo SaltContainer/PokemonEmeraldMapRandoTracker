@@ -461,9 +461,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_hall",
-				"x": 232,
-				"y": 184
+				"map": "lilycove",
+				"x": 904,
+				"y": 552
 			}
 		]
 	},
@@ -497,9 +497,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_hall",
-				"x": 152,
-				"y": 24
+				"map": "lilycove",
+				"x": 824,
+				"y": 392
 			}
 		]
 	},
@@ -533,9 +533,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_hall",
-				"x": 344,
-				"y": 24
+				"map": "lilycove",
+				"x": 1016,
+				"y": 392
 			}
 		]
 	},
@@ -569,9 +569,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_1f",
-				"x": 136,
-				"y": 120
+				"map": "lilycove",
+				"x": 1176,
+				"y": 600
 			}
 		]
 	},
@@ -605,14 +605,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_1f",
-				"x": 264,
-				"y": 24
+				"map": "lilycove",
+				"x": 1224,
+				"y": 600
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 2F Stairs NNE",
+		"name": "Lilycove Dept. 2F Stairs Left",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -641,14 +641,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_2f",
-				"x": 216,
-				"y": 24
+				"map": "lilycove",
+				"x": 1176,
+				"y": 552
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 2F Stairs NE",
+		"name": "Lilycove Dept. 2F Stairs Right",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -677,14 +677,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_2f",
-				"x": 264,
-				"y": 24
+				"map": "lilycove",
+				"x": 1224,
+				"y": 552
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 3F Stairs NNE",
+		"name": "Lilycove Dept. 3F Stairs Left",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -713,14 +713,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_3f",
-				"x": 216,
-				"y": 24
+				"map": "lilycove",
+				"x": 1176,
+				"y": 504
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 3F Stairs NE",
+		"name": "Lilycove Dept. 3F Stairs Right",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -749,14 +749,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_3f",
-				"x": 264,
-				"y": 24
+				"map": "lilycove",
+				"x": 1224,
+				"y": 504
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 4F Stairs NNE",
+		"name": "Lilycove Dept. 4F Stairs Left",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -785,14 +785,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_4f",
-				"x": 216,
-				"y": 24
+				"map": "lilycove",
+				"x": 1176,
+				"y": 456
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 4F Stairs NE",
+		"name": "Lilycove Dept. 4F Stairs Right",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -821,14 +821,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_4f",
-				"x": 264,
-				"y": 24
+				"map": "lilycove",
+				"x": 1224,
+				"y": 456
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 5F Stairs NNE",
+		"name": "Lilycove Dept. 5F Stairs Left",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -857,14 +857,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_5f",
-				"x": 216,
-				"y": 24
+				"map": "lilycove",
+				"x": 1176,
+				"y": 408
 			}
 		]
 	},
 	{
-		"name": "Lilycove Dept. 5F Stairs NE",
+		"name": "Lilycove Dept. 5F Stairs Right",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -893,9 +893,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "lilycove_dept_5f",
-				"x": 264,
-				"y": 24
+				"map": "lilycove",
+				"x": 1224,
+				"y": 408
 			}
 		]
 	}

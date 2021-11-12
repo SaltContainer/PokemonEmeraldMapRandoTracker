@@ -101,14 +101,14 @@
 		],
 		"map_locations": [
 			{
-				"map": "ever_grande_center",
-				"x": 152,
+				"map": "ever_grande",
+				"x": 504,
 				"y": 184
 			}
 		]
 	},
 	{
-		"name": "League Pokémon Center E4 Entrance",
+		"name": "League Pokémon Center E4 Door",
 		"color": "#872ea2",
 		"chest_unopened_img": "images/chests/closed.png",
         "chest_opened_img": "images/chests/opened.png",
@@ -137,8 +137,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "ever_grande_center",
-				"x": 152,
+				"map": "ever_grande",
+				"x": 504,
 				"y": 24
 			}
 		]
@@ -173,8 +173,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "ever_grande_center",
-				"x": 24,
+				"map": "ever_grande",
+				"x": 376,
 				"y": 120
 			}
 		]

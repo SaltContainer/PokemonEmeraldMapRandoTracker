@@ -29,9 +29,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_1f",
+				"map": "sky_pillar",
 				"x": 104,
-				"y": 216
+				"y": 456
 			}
 		]
 	},
@@ -65,9 +65,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_1f",
+				"map": "sky_pillar",
 				"x": 168,
-				"y": 24
+				"y": 264
 			}
 		]
 	},
@@ -101,7 +101,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_2f",
+				"map": "sky_pillar",
 				"x": 56,
 				"y": 24
 			}
@@ -137,7 +137,7 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_2f",
+				"map": "sky_pillar",
 				"x": 168,
 				"y": 24
 			}
@@ -173,9 +173,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_3f",
-				"x": 56,
-				"y": 24
+				"map": "sky_pillar",
+				"x": 296,
+				"y": 264
 			}
 		]
 	},
@@ -209,9 +209,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_3f",
-				"x": 120,
-				"y": 24
+				"map": "sky_pillar",
+				"x": 360,
+				"y": 264
 			}
 		]
 	},
@@ -245,9 +245,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_3f",
-				"x": 184,
-				"y": 24
+				"map": "sky_pillar",
+				"x": 424,
+				"y": 264
 			}
 		]
 	},
@@ -281,8 +281,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_4f",
-				"x": 56,
+				"map": "sky_pillar",
+				"x": 296,
 				"y": 24
 			}
 		]
@@ -317,8 +317,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_4f",
-				"x": 120,
+				"map": "sky_pillar",
+				"x": 360,
 				"y": 24
 			}
 		]
@@ -353,8 +353,8 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_4f",
-				"x": 184,
+				"map": "sky_pillar",
+				"x": 424,
 				"y": 24
 			}
 		]
@@ -389,9 +389,9 @@
 		],
 		"map_locations": [
 			{
-				"map": "sky_pillar_entrance",
+				"map": "sky_pillar",
 				"x": 184,
-				"y": 104
+				"y": 584
 			}
 		]
 	}
