@@ -137,6 +137,54 @@
         "img": "images/other/trainer.png",
         "codes": "trainer"
     },
+    {
+        "name": "HM01 - Cut",
+        "type": "toggle",
+        "img": "images/hms/hm1.png",
+        "codes": "hm1"
+    },
+    {
+        "name": "HM02 - Fly",
+        "type": "toggle",
+        "img": "images/hms/hm2.png",
+        "codes": "hm2"
+    },
+    {
+        "name": "HM03 - Surf",
+        "type": "toggle",
+        "img": "images/hms/hm3.png",
+        "codes": "hm3"
+    },
+    {
+        "name": "HM04 - Strength",
+        "type": "toggle",
+        "img": "images/hms/hm4.png",
+        "codes": "hm4"
+    },
+    {
+        "name": "HM05 - Flash",
+        "type": "toggle",
+        "img": "images/hms/hm5.png",
+        "codes": "hm5"
+    },
+    {
+        "name": "HM06 - Rock Smash",
+        "type": "toggle",
+        "img": "images/hms/hm6.png",
+        "codes": "hm6"
+    },
+    {
+        "name": "HM07 - Waterfall",
+        "type": "toggle",
+        "img": "images/hms/hm7.png",
+        "codes": "hm7"
+    },
+    {
+        "name": "HM08 - Dive",
+        "type": "toggle",
+        "img": "images/hms/hm8.png",
+        "codes": "hm8"
+    },
 	{
         "name": "Custom 1",
         "type": "toggle",
