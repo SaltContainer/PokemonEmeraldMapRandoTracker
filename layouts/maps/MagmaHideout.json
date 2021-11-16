@@ -1,0 +1,183 @@
+{
+    "magma_hideout": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_1f_sw",
+                        "canvas_left": 214,
+                        "canvas_top": 188,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_1f_sw",
+                        "canvas_left": 161,
+                        "canvas_top": 188,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_1f_se",
+                        "canvas_left": 422,
+                        "canvas_top": 188,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_1f_se",
+                        "canvas_left": 369,
+                        "canvas_top": 188,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_1f_c",
+                        "canvas_left": 352,
+                        "canvas_top": 8,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_1f_c",
+                        "canvas_left": 299,
+                        "canvas_top": 8,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_2f_n",
+                        "canvas_left": 588,
+                        "canvas_top": 4,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_2f_n",
+                        "canvas_left": 535,
+                        "canvas_top": 4,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_2f_c",
+                        "canvas_left": 630,
+                        "canvas_top": 290,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_2f_c",
+                        "canvas_left": 577,
+                        "canvas_top": 290,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_2f_s",
+                        "canvas_left": 714,
+                        "canvas_top": 438,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_2f_s",
+                        "canvas_left": 661,
+                        "canvas_top": 438,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_3f_n",
+                        "canvas_left": 464,
+                        "canvas_top": 260,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_3f_n",
+                        "canvas_left": 411,
+                        "canvas_top": 260,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_3f_c",
+                        "canvas_left": 436,
+                        "canvas_top": 344,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_3f_c",
+                        "canvas_left": 383,
+                        "canvas_top": 344,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_magma_hideout_3f_s",
+                        "canvas_left": 242,
+                        "canvas_top": 522,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_magma_hideout_3f_s",
+                        "canvas_left": 189,
+                        "canvas_top": 522,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "magma_hideout",
+                        "canvas_depth": 0,
+                        "canvas_left": 152,
+                        "canvas_top": 0,
+                        "width": 696,
+                        "height": 584
+                    }
+                ]
+            }
+        ]
+    }
+}

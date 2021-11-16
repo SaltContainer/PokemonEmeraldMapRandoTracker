@@ -1,0 +1,129 @@
+{
+    "petalburg": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_center",
+                        "canvas_left": 580,
+                        "canvas_top": 232,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_center",
+                        "canvas_left": 527,
+                        "canvas_top": 232,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_house_se",
+                        "canvas_left": 580,
+                        "canvas_top": 356,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_house_se",
+                        "canvas_left": 527,
+                        "canvas_top": 356,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_house_sw",
+                        "canvas_left": 420,
+                        "canvas_top": 278,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_house_sw",
+                        "canvas_left": 367,
+                        "canvas_top": 278,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_house_nw",
+                        "canvas_left": 364,
+                        "canvas_top": 50,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_house_nw",
+                        "canvas_left": 311,
+                        "canvas_top": 50,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_mart",
+                        "canvas_left": 660,
+                        "canvas_top": 168,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_mart",
+                        "canvas_left": 607,
+                        "canvas_top": 168,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_gym",
+                        "canvas_left": 484,
+                        "canvas_top": 90,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_gym",
+                        "canvas_left": 431,
+                        "canvas_top": 90,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "petalburg",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

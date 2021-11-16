@@ -1,0 +1,93 @@
+{
+    "route_111": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_111_rest",
+                        "canvas_left": 257,
+                        "canvas_top": 134,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_111_rest",
+                        "canvas_left": 204,
+                        "canvas_top": 134,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_111_winstrate",
+                        "canvas_left": 285,
+                        "canvas_top": 474,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_111_winstrate",
+                        "canvas_left": 232,
+                        "canvas_top": 474,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_111_mirage",
+                        "canvas_left": 569,
+                        "canvas_top": 166,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_111_mirage",
+                        "canvas_left": 516,
+                        "canvas_top": 166,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_111_regi",
+                        "canvas_left": 625,
+                        "canvas_top": 394,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_111_regi",
+                        "canvas_left": 572,
+                        "canvas_top": 394,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_111",
+                        "canvas_depth": 0,
+                        "canvas_left": 173,
+                        "canvas_top": 0,
+                        "width": 654,
+                        "height": 540
+                    }
+                ]
+            }
+        ]
+    }
+}

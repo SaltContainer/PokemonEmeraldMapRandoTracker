@@ -1,0 +1,57 @@
+{
+    "underwater": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_underwater_126",
+                        "canvas_left": 493,
+                        "canvas_top": 84,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_underwater_126",
+                        "canvas_left": 440,
+                        "canvas_top": 84,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_underwater_128",
+                        "canvas_left": 471,
+                        "canvas_top": 434,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_underwater_128",
+                        "canvas_left": 418,
+                        "canvas_top": 434,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "underwater",
+                        "canvas_depth": 0,
+                        "canvas_left": 291,
+                        "canvas_top": 0,
+                        "width": 417,
+                        "height": 556
+                    }
+                ]
+            }
+        ]
+    }
+}

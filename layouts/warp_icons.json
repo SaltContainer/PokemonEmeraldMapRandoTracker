@@ -1,0 +1,96 @@
+{
+    "warp_icons": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "container",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "left",
+                    "item_margin": "1,2",
+                    "rows": [
+                        [
+                            "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer"
+                        ],
+                        [
+                            "doorslot_stone_badge", "doorslot_knuckle_badge", "doorslot_dynamo_badge", "doorslot_heat_badge", "doorslot_balance_badge", "doorslot_feather_badge", "doorslot_mind_badge", "doorslot_rain_badge"
+                        ],
+                        [
+                            "doorslot_e4_dark", "doorslot_e4_ghost", "doorslot_e4_ice", "doorslot_e4_dragon", "doorslot_champ_water", "doorslot_steven_steel"
+                        ],
+                        [
+                            "doorslot_rock_smash", "doorslot_strength", "doorslot_surf", "doorslot_waterfall", "doorslot_dive"
+                        ],
+                        [
+                            "doorslot_hm1", "doorslot_hm2", "doorslot_hm3", "doorslot_hm4", "doorslot_hm5", "doorslot_hm6", "doorslot_hm7", "doorslot_hm8"
+                        ],
+                        [
+                            "doorslot_custom1", "doorslot_custom2", "doorslot_custom3", "doorslot_custom4", "doorslot_custom5", "doorslot_custom6", "doorslot_custom7", "doorslot_custom8"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "container",
+                "content": {
+                    "type": "itemgrid",
+                    "h_alignment": "center",
+                    "item_margin": "1,2",
+                    "item_height": 20,
+                    "item_width": 86,
+                    "rows": [
+                        [
+                            "doorslot_oldale", "doorslot_petalburg", "doorslot_rustboro"
+                        ],
+                        [
+                            "doorslot_dewford", "doorslot_slateport", "doorslot_mauville"
+                        ],
+                        [
+                            "doorslot_verdanturf", "doorslot_lavaridge", "doorslot_fallarbor"
+                        ],
+                        [
+                            "doorslot_fortree", "doorslot_lilycove", "doorslot_mossdeep"
+                        ],
+                        [
+                            "doorslot_sootopolis", "doorslot_pacifidlog", "doorslot_ever_grande"
+                        ],
+                        [
+                            "doorslot_route_104", "doorslot_route_105", "doorslot_route_106"
+                        ],
+                        [
+                            "doorslot_route_108", "doorslot_route_109", "doorslot_route_110"
+                        ],
+                        [
+                            "doorslot_route_111", "doorslot_route_112", "doorslot_route_113"
+                        ],
+                        [
+                            "doorslot_route_114", "doorslot_route_115", "doorslot_route_116"
+                        ],
+                        [
+                            "doorslot_route_117", "doorslot_route_119", "doorslot_route_120"
+                        ],
+                        [
+                            "doorslot_route_122", "doorslot_route_123", "doorslot_route_124"
+                        ],
+                        [
+                            "doorslot_underwater", "doorslot_aqua_hideout", "doorslot_granite"
+                        ],
+                        [
+                            "doorslot_jagged_pass", "doorslot_magma_hideout", "doorslot_meteor_falls"
+                        ],
+                        [
+                            "doorslot_mirage_tower", "doorslot_navel_rock", "doorslot_petalburg_woods"
+                        ],
+                        [
+                            "doorslot_mt_pyre", "doorslot_rusturf_tunnel", "doorslot_seafloor_cavern"
+                        ],
+                        [
+                            "doorslot_abandoned_ship", "doorslot_sky_pillar", "doorslot_victory_road"
+                        ]
+                    ]
+                }
+            }
+        ]
+    }
+}

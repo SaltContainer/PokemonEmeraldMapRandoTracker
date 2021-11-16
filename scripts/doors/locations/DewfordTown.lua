@@ -1,0 +1,5 @@
+DoorSlot("dewford", "center", DoorSlotHub("dewford", "center"))
+DoorSlot("dewford", "house_se", DoorSlotHub("dewford", "house_se"))
+DoorSlot("dewford", "house_c", DoorSlotHub("dewford", "house_c"))
+DoorSlot("dewford", "house_nw", DoorSlotHub("dewford", "house_nw"))
+DoorSlot("dewford", "gym", DoorSlotHub("dewford", "gym"))

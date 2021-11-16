@@ -1,0 +1,111 @@
+{
+    "fallarbor": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_fallarbor_center",
+                        "canvas_left": 604,
+                        "canvas_top": 152,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fallarbor_center",
+                        "canvas_left": 551,
+                        "canvas_top": 152,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fallarbor_mart",
+                        "canvas_left": 628,
+                        "canvas_top": 344,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fallarbor_mart",
+                        "canvas_left": 575,
+                        "canvas_top": 344,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fallarbor_contest",
+                        "canvas_left": 448,
+                        "canvas_top": 120,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fallarbor_contest",
+                        "canvas_left": 395,
+                        "canvas_top": 120,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fallarbor_house_nw",
+                        "canvas_left": 292,
+                        "canvas_top": 86,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fallarbor_house_nw",
+                        "canvas_left": 239,
+                        "canvas_top": 86,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fallarbor_house_sw",
+                        "canvas_left": 412,
+                        "canvas_top": 372,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fallarbor_house_sw",
+                        "canvas_left": 359,
+                        "canvas_top": 372,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "fallarbor",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

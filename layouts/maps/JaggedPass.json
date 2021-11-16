@@ -1,0 +1,75 @@
+{
+    "jagged_pass": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_jagged_pass_n",
+                        "canvas_left": 484,
+                        "canvas_top": 38,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_jagged_pass_n",
+                        "canvas_left": 431,
+                        "canvas_top": 38,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_jagged_pass_magma",
+                        "canvas_left": 497,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_jagged_pass_magma",
+                        "canvas_left": 444,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_jagged_pass_s",
+                        "canvas_left": 484,
+                        "canvas_top": 434,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_jagged_pass_s",
+                        "canvas_left": 431,
+                        "canvas_top": 434,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "jagged_pass",
+                        "canvas_depth": 0,
+                        "canvas_left": 364,
+                        "canvas_top": 0,
+                        "width": 272,
+                        "height": 543
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "ever_grande": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_ever_grande_center",
+                        "canvas_left": 426,
+                        "canvas_top": 202,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ever_grande_center",
+                        "canvas_left": 373,
+                        "canvas_top": 202,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ever_grande_cave",
+                        "canvas_left": 212,
+                        "canvas_top": 58,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ever_grande_cave",
+                        "canvas_left": 159,
+                        "canvas_top": 58,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ever_grande_center_entrance",
+                        "canvas_left": 744,
+                        "canvas_top": 244,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ever_grande_center_entrance",
+                        "canvas_left": 691,
+                        "canvas_top": 244,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ever_grande_center_stairs",
+                        "canvas_left": 548,
+                        "canvas_top": 152,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ever_grande_center_stairs",
+                        "canvas_left": 495,
+                        "canvas_top": 152,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ever_grande_center_e4",
+                        "canvas_left": 744,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ever_grande_center_e4",
+                        "canvas_left": 691,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "ever_grande",
+                        "canvas_depth": 0,
+                        "canvas_left": 36,
+                        "canvas_top": 0,
+                        "width": 928,
+                        "height": 640
+                    }
+                ]
+            }
+        ]
+    }
+}

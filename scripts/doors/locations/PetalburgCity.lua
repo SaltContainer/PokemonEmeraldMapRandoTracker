@@ -1,0 +1,6 @@
+DoorSlot("petalburg", "center", DoorSlotHub("petalburg", "center"))
+DoorSlot("petalburg", "mart", DoorSlotHub("petalburg", "mart"))
+DoorSlot("petalburg", "gym", DoorSlotHub("petalburg", "gym"))
+DoorSlot("petalburg", "house_se", DoorSlotHub("petalburg", "house_se"))
+DoorSlot("petalburg", "house_sw", DoorSlotHub("petalburg", "house_sw"))
+DoorSlot("petalburg", "house_nw", DoorSlotHub("petalburg", "house_nw"))

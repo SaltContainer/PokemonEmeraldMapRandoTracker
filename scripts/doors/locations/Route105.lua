@@ -1,0 +1,1 @@
+DoorSlot("route_105", "regi", DoorSlotHub("route_105", "regi"))

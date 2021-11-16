@@ -1,0 +1,39 @@
+{
+    "route_115": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_115_meteor",
+                        "canvas_left": 453,
+                        "canvas_top": 142,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_115_meteor",
+                        "canvas_left": 400,
+                        "canvas_top": 142,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_115",
+                        "canvas_depth": 0,
+                        "canvas_left": 105,
+                        "canvas_top": 0,
+                        "width": 790,
+                        "height": 452
+                    }
+                ]
+            }
+        ]
+    }
+}

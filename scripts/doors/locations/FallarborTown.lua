@@ -1,0 +1,5 @@
+DoorSlot("fallarbor", "center", DoorSlotHub("fallarbor", "center"))
+DoorSlot("fallarbor", "house_sw", DoorSlotHub("fallarbor", "house_sw"))
+DoorSlot("fallarbor", "house_nw", DoorSlotHub("fallarbor", "house_nw"))
+DoorSlot("fallarbor", "mart", DoorSlotHub("fallarbor", "mart"))
+DoorSlot("fallarbor", "contest", DoorSlotHub("fallarbor", "contest"))

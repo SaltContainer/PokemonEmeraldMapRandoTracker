@@ -1,0 +1,111 @@
+{
+    "route_104": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_104_flower",
+                        "canvas_left": 363,
+                        "canvas_top": 32,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_104_flower",
+                        "canvas_left": 310,
+                        "canvas_top": 32,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_104_briney",
+                        "canvas_left": 415,
+                        "canvas_top": 474,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_104_briney",
+                        "canvas_left": 362,
+                        "canvas_top": 474,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_104_woods_n",
+                        "canvas_left": 439,
+                        "canvas_top": 224,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_104_woods_n",
+                        "canvas_left": 386,
+                        "canvas_top": 224,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_104_woods_sw",
+                        "canvas_left": 321,
+                        "canvas_top": 322,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_104_woods_sw",
+                        "canvas_left": 268,
+                        "canvas_top": 322,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_104_woods_se",
+                        "canvas_left": 649,
+                        "canvas_top": 384,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_104_woods_se",
+                        "canvas_left": 596,
+                        "canvas_top": 384,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_104",
+                        "canvas_depth": 0,
+                        "canvas_left": 291,
+                        "canvas_top": 0,
+                        "width": 418,
+                        "height": 582
+                    }
+                ]
+            }
+        ]
+    }
+}

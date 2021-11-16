@@ -1,0 +1,381 @@
+{
+    "seafloor_cavern": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_1_sw",
+                        "canvas_left": 164,
+                        "canvas_top": 216,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_1_sw",
+                        "canvas_left": 111,
+                        "canvas_top": 216,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_1_se",
+                        "canvas_left": 322,
+                        "canvas_top": 150,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_1_se",
+                        "canvas_left": 269,
+                        "canvas_top": 150,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_1_n",
+                        "canvas_left": 178,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_1_n",
+                        "canvas_left": 125,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_2_sw",
+                        "canvas_left": 464,
+                        "canvas_top": 202,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_2_sw",
+                        "canvas_left": 411,
+                        "canvas_top": 202,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_2_se",
+                        "canvas_left": 568,
+                        "canvas_top": 138,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_2_se",
+                        "canvas_left": 515,
+                        "canvas_top": 138,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_2_n",
+                        "canvas_left": 426,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_2_n",
+                        "canvas_left": 373,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_3_s",
+                        "canvas_left": 778,
+                        "canvas_top": 176,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_3_s",
+                        "canvas_left": 725,
+                        "canvas_top": 176,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_3_c",
+                        "canvas_left": 764,
+                        "canvas_top": 104,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_3_c",
+                        "canvas_left": 711,
+                        "canvas_top": 104,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_3_nw",
+                        "canvas_left": 690,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_3_nw",
+                        "canvas_left": 637,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_3_ne",
+                        "canvas_left": 824,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_3_ne",
+                        "canvas_left": 771,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_4_sw",
+                        "canvas_left": 150,
+                        "canvas_top": 406,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_4_sw",
+                        "canvas_left": 97,
+                        "canvas_top": 406,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_4_se",
+                        "canvas_left": 230,
+                        "canvas_top": 376,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_4_se",
+                        "canvas_left": 177,
+                        "canvas_top": 376,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_4_nw",
+                        "canvas_left": 154,
+                        "canvas_top": 286,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_4_nw",
+                        "canvas_left": 101,
+                        "canvas_top": 286,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_4_ne",
+                        "canvas_left": 266,
+                        "canvas_top": 286,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_4_ne",
+                        "canvas_left": 213,
+                        "canvas_top": 286,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_5_s",
+                        "canvas_left": 490,
+                        "canvas_top": 542,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_5_s",
+                        "canvas_left": 437,
+                        "canvas_top": 542,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_5_c",
+                        "canvas_left": 530,
+                        "canvas_top": 382,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_5_c",
+                        "canvas_left": 477,
+                        "canvas_top": 382,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_5_nw",
+                        "canvas_left": 408,
+                        "canvas_top": 290,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_5_nw",
+                        "canvas_left": 355,
+                        "canvas_top": 290,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_6_n",
+                        "canvas_left": 778,
+                        "canvas_top": 290,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_6_n",
+                        "canvas_left": 725,
+                        "canvas_top": 290,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_6_sw",
+                        "canvas_left": 724,
+                        "canvas_top": 472,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_6_sw",
+                        "canvas_left": 671,
+                        "canvas_top": 472,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_seafloor_cavern_room_6_se",
+                        "canvas_left": 790,
+                        "canvas_top": 440,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_seafloor_cavern_room_6_se",
+                        "canvas_left": 737,
+                        "canvas_top": 440,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "seafloor_cavern",
+                        "canvas_depth": 0,
+                        "canvas_left": 108,
+                        "canvas_top": 0,
+                        "width": 784,
+                        "height": 588
+                    }
+                ]
+            }
+        ]
+    }
+}

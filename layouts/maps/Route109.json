@@ -1,0 +1,39 @@
+{
+    "route_109": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_109_shack",
+                        "canvas_left": 431,
+                        "canvas_top": 260,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_109_shack",
+                        "canvas_left": 378,
+                        "canvas_top": 260,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_109",
+                        "canvas_depth": 0,
+                        "canvas_left": 163,
+                        "canvas_top": 0,
+                        "width": 674,
+                        "height": 466
+                    }
+                ]
+            }
+        ]
+    }
+}

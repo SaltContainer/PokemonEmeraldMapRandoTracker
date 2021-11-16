@@ -1,0 +1,75 @@
+{
+    "petalburg_woods": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_woods_entrance_n",
+                        "canvas_left": 364,
+                        "canvas_top": 78,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_woods_entrance_n",
+                        "canvas_left": 311,
+                        "canvas_top": 78,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_woods_entrance_sw",
+                        "canvas_left": 390,
+                        "canvas_top": 476,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_woods_entrance_sw",
+                        "canvas_left": 337,
+                        "canvas_top": 476,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_petalburg_woods_entrance_se",
+                        "canvas_left": 656,
+                        "canvas_top": 476,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_petalburg_woods_entrance_se",
+                        "canvas_left": 603,
+                        "canvas_top": 476,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "petalburg_woods",
+                        "canvas_depth": 0,
+                        "canvas_left": 180,
+                        "canvas_top": 0,
+                        "width": 640,
+                        "height": 587
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "pacifidlog": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_center",
+                        "canvas_left": 460,
+                        "canvas_top": 154,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_center",
+                        "canvas_left": 407,
+                        "canvas_top": 154,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_house_nw",
+                        "canvas_left": 304,
+                        "canvas_top": 86,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_house_nw",
+                        "canvas_left": 251,
+                        "canvas_top": 86,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_house_ne",
+                        "canvas_left": 640,
+                        "canvas_top": 110,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_house_ne",
+                        "canvas_left": 587,
+                        "canvas_top": 110,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_house_sw",
+                        "canvas_left": 328,
+                        "canvas_top": 326,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_house_sw",
+                        "canvas_left": 275,
+                        "canvas_top": 326,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_house_s",
+                        "canvas_left": 544,
+                        "canvas_top": 374,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_house_s",
+                        "canvas_left": 491,
+                        "canvas_top": 374,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_pacifidlog_house_se",
+                        "canvas_left": 664,
+                        "canvas_top": 302,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_pacifidlog_house_se",
+                        "canvas_left": 611,
+                        "canvas_top": 302,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "pacifidlog",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "route_119": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_119_weather",
+                        "canvas_left": 471,
+                        "canvas_top": 200,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_119_weather",
+                        "canvas_left": 418,
+                        "canvas_top": 200,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_119_house",
+                        "canvas_left": 583,
+                        "canvas_top": 442,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_119_house",
+                        "canvas_left": 530,
+                        "canvas_top": 442,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_119",
+                        "canvas_depth": 0,
+                        "canvas_left": 325,
+                        "canvas_top": 0,
+                        "width": 350,
+                        "height": 550
+                    }
+                ]
+            }
+        ]
+    }
+}

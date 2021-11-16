@@ -1,0 +1,147 @@
+{
+    "verdanturf": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_center",
+                        "canvas_left": 650,
+                        "canvas_top": 26,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_center",
+                        "canvas_left": 597,
+                        "canvas_top": 26,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_mart",
+                        "canvas_left": 556,
+                        "canvas_top": 58,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_mart",
+                        "canvas_left": 503,
+                        "canvas_top": 58,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_tunnel",
+                        "canvas_left": 448,
+                        "canvas_top": 26,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_tunnel",
+                        "canvas_left": 395,
+                        "canvas_top": 26,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_contest",
+                        "canvas_left": 327,
+                        "canvas_top": 150,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_contest",
+                        "canvas_left": 274,
+                        "canvas_top": 150,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_house_sw",
+                        "canvas_left": 290,
+                        "canvas_top": 318,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_house_sw",
+                        "canvas_left": 237,
+                        "canvas_top": 318,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_house_s",
+                        "canvas_left": 496,
+                        "canvas_top": 318,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_house_s",
+                        "canvas_left": 443,
+                        "canvas_top": 318,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_verdanturf_house_se",
+                        "canvas_left": 678,
+                        "canvas_top": 334,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_verdanturf_house_se",
+                        "canvas_left": 625,
+                        "canvas_top": 334,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "verdanturf",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

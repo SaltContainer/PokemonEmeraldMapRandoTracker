@@ -1,0 +1,147 @@
+{
+    "mauville": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_center",
+                        "canvas_left": 553,
+                        "canvas_top": 78,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_center",
+                        "canvas_left": 500,
+                        "canvas_top": 78,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_mart",
+                        "canvas_left": 577,
+                        "canvas_top": 294,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_mart",
+                        "canvas_left": 524,
+                        "canvas_top": 294,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_gym",
+                        "canvas_left": 207,
+                        "canvas_top": 64,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_gym",
+                        "canvas_left": 154,
+                        "canvas_top": 64,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_casino",
+                        "canvas_left": 217,
+                        "canvas_top": 278,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_casino",
+                        "canvas_left": 164,
+                        "canvas_top": 278,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_bike",
+                        "canvas_left": 863,
+                        "canvas_top": 82,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_bike",
+                        "canvas_left": 810,
+                        "canvas_top": 82,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_house_sw",
+                        "canvas_left": 481,
+                        "canvas_top": 262,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_house_sw",
+                        "canvas_left": 428,
+                        "canvas_top": 262,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mauville_house_se",
+                        "canvas_left": 795,
+                        "canvas_top": 288,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mauville_house_se",
+                        "canvas_left": 742,
+                        "canvas_top": 288,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "mauville",
+                        "canvas_depth": 0,
+                        "canvas_left": 37,
+                        "canvas_top": 0,
+                        "width": 926,
+                        "height": 463
+                    }
+                ]
+            }
+        ]
+    }
+}

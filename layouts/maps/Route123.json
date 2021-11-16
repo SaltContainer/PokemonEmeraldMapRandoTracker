@@ -1,0 +1,39 @@
+{
+    "route_123": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_123_berry",
+                        "canvas_left": 511,
+                        "canvas_top": 160,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_123_berry",
+                        "canvas_left": 458,
+                        "canvas_top": 160,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_123",
+                        "canvas_depth": 0,
+                        "canvas_left": 159,
+                        "canvas_top": 0,
+                        "width": 682,
+                        "height": 434
+                    }
+                ]
+            }
+        ]
+    }
+}

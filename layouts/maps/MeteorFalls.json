@@ -1,0 +1,255 @@
+{
+    "meteor_falls": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_front_n",
+                        "canvas_left": 244,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_front_n",
+                        "canvas_left": 191,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_front_e",
+                        "canvas_left": 422,
+                        "canvas_top": 46,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_front_e",
+                        "canvas_left": 369,
+                        "canvas_top": 46,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_front_s",
+                        "canvas_left": 274,
+                        "canvas_top": 154,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_front_s",
+                        "canvas_left": 221,
+                        "canvas_top": 154,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_back_nw",
+                        "canvas_left": 504,
+                        "canvas_top": 2,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_back_nw",
+                        "canvas_left": 451,
+                        "canvas_top": 2,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_back_w",
+                        "canvas_left": 534,
+                        "canvas_top": 94,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_back_w",
+                        "canvas_left": 481,
+                        "canvas_top": 94,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_back_sw",
+                        "canvas_left": 564,
+                        "canvas_top": 158,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_back_sw",
+                        "canvas_left": 511,
+                        "canvas_top": 158,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_back_e",
+                        "canvas_left": 674,
+                        "canvas_top": 126,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_back_e",
+                        "canvas_left": 621,
+                        "canvas_top": 126,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_e_n",
+                        "canvas_left": 384,
+                        "canvas_top": 216,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_e_n",
+                        "canvas_left": 331,
+                        "canvas_top": 216,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_e_w",
+                        "canvas_left": 284,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_e_w",
+                        "canvas_left": 231,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_e_s",
+                        "canvas_left": 414,
+                        "canvas_top": 552,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_e_s",
+                        "canvas_left": 361,
+                        "canvas_top": 552,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_w_n",
+                        "canvas_left": 266,
+                        "canvas_top": 278,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_w_n",
+                        "canvas_left": 213,
+                        "canvas_top": 278,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_w_e",
+                        "canvas_left": 394,
+                        "canvas_top": 374,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_w_e",
+                        "canvas_left": 341,
+                        "canvas_top": 374,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_meteor_falls_b1f_w_sw",
+                        "canvas_left": 246,
+                        "canvas_top": 452,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_meteor_falls_b1f_w_sw",
+                        "canvas_left": 193,
+                        "canvas_top": 452,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "meteor_falls",
+                        "canvas_depth": 0,
+                        "canvas_left": 226,
+                        "canvas_top": 0,
+                        "width": 548,
+                        "height": 597
+                    }
+                ]
+            }
+        ]
+    }
+}

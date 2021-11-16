@@ -1,0 +1,93 @@
+{
+    "oldale": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_oldale_center",
+                        "canvas_left": 412,
+                        "canvas_top": 352,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_oldale_center",
+                        "canvas_left": 359,
+                        "canvas_top": 352,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_oldale_house_se",
+                        "canvas_left": 628,
+                        "canvas_top": 352,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_oldale_house_se",
+                        "canvas_left": 575,
+                        "canvas_top": 352,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_oldale_house_nw",
+                        "canvas_left": 388,
+                        "canvas_top": 144,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_oldale_house_nw",
+                        "canvas_left": 335,
+                        "canvas_top": 144,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_oldale_mart",
+                        "canvas_left": 604,
+                        "canvas_top": 96,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_oldale_mart",
+                        "canvas_left": 551,
+                        "canvas_top": 96,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "oldale",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

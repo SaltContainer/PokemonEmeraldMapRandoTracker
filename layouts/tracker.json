@@ -1,484 +1,62 @@
 {
 	"tracker_default": {
-        "type": "container",
-        "background": "#877373",
-        "content": {
-            "type": "dock",
-            "dropshadow": true,
-            "content": [
-                {
-                    "type": "dock",
-                    "dock": "bottom",
-                    "v_alignment": "stretch",
-                    "content": [
-                        {
-                            "type": "group",
-                            "header": "Progress",
-                            "dock": "left",
-                            "content": {
-                                "type": "layout",
-                                "key": "tracker_items"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Pinned Locations",
-                            "content": {
-                                "type": "recentpins",
-                                "style": "wrap",
-                                "h_alignment": "stretch",
-                                "v_alignment": "stretch",
-                                "orientation": "horizontal",
-                                "compact": true
-                            }
-                        }
-                    ]
-                },
-                {
-				  "type": "tabbed",
-				  "tabs": [
-					{
-					  "title": "Oldale Town",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"oldale"
-						]
-					  }
-					},
-					{
-					  "title": "Petalburg City",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"petalburg"
-						]
-					  }
-					},
-                    {
-                        "title": "Rustboro City",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "rustboro"
-                          ]
-                        }
-                    },
-					{
-					  "title": "Dewford Town",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"dewford"
-						]
-					  }
-					},
-					{
-					  "title": "Slateport City",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"slateport"
-						]
-					  }
-					},
-                    {
-                        "title": "Mauville City",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "mauville"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Verdanturf Town",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "verdanturf"
-                          ]
-                        }
-                    },
-					{
-					  "title": "Lavaridge Town",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"lavaridge"
-						]
-					  }
-					},
-					{
-					  "title": "Fallarbor Town",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"fallarbor"
-						]
-					  }
-					},
-					{
-					  "title": "Fortree City",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"fortree"
-						]
-					  }
-					},
-					{
-					  "title": "Lilycove City",
-					  "content": {
-                          "type": "map",
-                          "maps": [
-                              "lilycove"
-                          ]
-                        }
-					},
-					{
-					  "title": "Mossdeep City",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"mossdeep"
-						]
-					  }
-					},
-					{
-					  "title": "Sootopolis City",
-					  "content": {
-						"type": "map",
-						"maps": [
-							"sootopolis"
-						]
-					  }
-					},
-                    {
-                        "title": "Pacifidlog Town",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "pacifidlog"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Ever Grande City",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"ever_grande"
-							]
-                        }
-                    },
-                    {
-                        "title": "Route 104",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_104"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 105",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_105"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 106",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_106"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 108",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_108"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 109",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_109"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 110",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_110"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 111",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_111"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 112",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_112"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 113",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_113"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 114",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_114"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 115",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_115"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 116",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_116"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 117",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_117"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 119",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_119"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 120",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_120"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 122",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_122"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 123",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_123"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Route 124",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "route_124"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Underwater",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"underwater"
-							]
-                        }
-                    },
-                    {
-                        "title": "Aqua Hideout",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"aqua_hideout"
-							]
-                        }
-                    },
-                    {
-                        "title": "Granite Cave",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"granite"
-							]
-                        }
-                    },
-					{
-                        "title": "Jagged Pass",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "jagged_pass"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Magma Hideout",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"magma_hideout"
-							]
-                        }
-                    },
-                    {
-                        "title": "Meteor Falls",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"meteor_falls"
-							]
-                        }
-                    },
-                    {
-                        "title": "Mirage Tower",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"mirage_tower"
-							]
-                        }
-                    },
-					{
-                        "title": "Navel Rock",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "navel_rock"
-                          ]
-                        }
-                    },
-					{
-                        "title": "Petalburg Woods",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "petalburg_woods"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Mt. Pyre",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"mt_pyre"
-							]
-                        }
-                    },
-					{
-                        "title": "Rusturf Tunnel",
-                        "content": {
-                          "type": "map",
-                          "maps": [
-                              "rusturf_tunnel"
-                          ]
-                        }
-                    },
-                    {
-                        "title": "Seafloor Cavern",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"seafloor_cavern"
-							]
-                        }
-                    },
-                    {
-                        "title": "Abandoned Ship",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"ship"
-							]
-                        }
-                    },
-                    {
-                        "title": "Sky Pillar",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"sky_pillar"
-							]
-                        }
-                    },
-                    {
-                        "title": "Victory Road",
-                        "content": {
-							"type": "map",
-							"maps": [
-								"victory_road"
-							]
-                        }
-                    }
-				  ]
+		"type": "container",
+		"background": "#877373",
+		"content": {
+			"type": "dock",
+			"dropshadow": true,
+			"content": [
+				{
+					"type": "dock",
+					"dock": "bottom",
+					"v_alignment": "stretch",
+					"content": [
+						{
+							"type": "group",
+							"header": "Progress",
+							"dock": "left",
+							"content": {
+								"type": "layout",
+								"key": "tracker_items"
+							}
+						},
+						{
+							"type": "group",
+							"header": "Pinned Locations",
+							"content": {
+								"type": "recentpins",
+								"style": "wrap",
+								"h_alignment": "stretch",
+								"v_alignment": "stretch",
+								"orientation": "horizontal",
+								"compact": true
+							}
+						}
+					]
+				},
+				{
+					"type": "array",
+					"orientation": "horizontal",
+					"content": [
+						{
+							"type": "layout",
+							"key": "warp_icons"
+						},
+						{
+							"type": "layout",
+							"max-width": 1000,
+							"key": "map_tabs"
+						}
+					]
 				}
-            ]
-        }
-    },
-    "tracker_broadcast": {
-        "type": "container",
-        "content": {
-            "type": "layout",
-            "key": "tracker_items"
-        }
-    }
+			]
+		}
+	},
+	"tracker_broadcast": {
+		"type": "container",
+		"content": {
+			"type": "layout",
+			"key": "tracker_items"
+		}
+	}
 }

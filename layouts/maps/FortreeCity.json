@@ -1,0 +1,183 @@
+{
+    "fortree": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_center",
+                        "canvas_left": 159,
+                        "canvas_top": 110,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_center",
+                        "canvas_left": 106,
+                        "canvas_top": 110,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_mart",
+                        "canvas_left": 137,
+                        "canvas_top": 296,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_mart",
+                        "canvas_left": 84,
+                        "canvas_top": 296,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_gym",
+                        "canvas_left": 529,
+                        "canvas_top": 206,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_gym",
+                        "canvas_left": 476,
+                        "canvas_top": 206,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_n1",
+                        "canvas_left": 264,
+                        "canvas_top": 58,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_n1",
+                        "canvas_left": 211,
+                        "canvas_top": 58,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_n2",
+                        "canvas_left": 426,
+                        "canvas_top": 58,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_n2",
+                        "canvas_left": 373,
+                        "canvas_top": 58,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_n3",
+                        "canvas_left": 611,
+                        "canvas_top": 58,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_n3",
+                        "canvas_left": 558,
+                        "canvas_top": 58,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_n4",
+                        "canvas_left": 773,
+                        "canvas_top": 26,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_n4",
+                        "canvas_left": 720,
+                        "canvas_top": 26,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_sw",
+                        "canvas_left": 310,
+                        "canvas_top": 290,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_sw",
+                        "canvas_left": 257,
+                        "canvas_top": 290,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_fortree_house_se",
+                        "canvas_left": 889,
+                        "canvas_top": 290,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_fortree_house_se",
+                        "canvas_left": 836,
+                        "canvas_top": 290,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "fortree",
+                        "canvas_depth": 0,
+                        "canvas_left": 37,
+                        "canvas_top": 0,
+                        "width": 926,
+                        "height": 463
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,219 @@
+{
+    "rustboro": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_center",
+                        "canvas_left": 447,
+                        "canvas_top": 356,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_center",
+                        "canvas_left": 394,
+                        "canvas_top": 356,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_mart",
+                        "canvas_left": 447,
+                        "canvas_top": 442,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_mart",
+                        "canvas_left": 394,
+                        "canvas_top": 442,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_gym",
+                        "canvas_left": 570,
+                        "canvas_top": 118,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_gym",
+                        "canvas_left": 517,
+                        "canvas_top": 118,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_school",
+                        "canvas_left": 576,
+                        "canvas_top": 300,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_school",
+                        "canvas_left": 523,
+                        "canvas_top": 300,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_devon",
+                        "canvas_left": 386,
+                        "canvas_top": 68,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_devon",
+                        "canvas_left": 333,
+                        "canvas_top": 68,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_nw",
+                        "canvas_left": 404,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_nw",
+                        "canvas_left": 351,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_w",
+                        "canvas_left": 354,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_w",
+                        "canvas_left": 301,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_sw",
+                        "canvas_left": 318,
+                        "canvas_top": 512,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_sw",
+                        "canvas_left": 265,
+                        "canvas_top": 512,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_ne",
+                        "canvas_left": 650,
+                        "canvas_top": 86,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_ne",
+                        "canvas_left": 597,
+                        "canvas_top": 86,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_e",
+                        "canvas_left": 612,
+                        "canvas_top": 226,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_e",
+                        "canvas_left": 559,
+                        "canvas_top": 226,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rustboro_house_se",
+                        "canvas_left": 570,
+                        "canvas_top": 450,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rustboro_house_se",
+                        "canvas_left": 517,
+                        "canvas_top": 450,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "rustboro",
+                        "canvas_depth": 0,
+                        "canvas_left": 254,
+                        "canvas_top": 0,
+                        "width": 492,
+                        "height": 590
+                    }
+                ]
+            }
+        ]
+    }
+}

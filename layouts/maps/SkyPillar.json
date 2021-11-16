@@ -1,0 +1,219 @@
+{
+    "sky_pillar": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_entrance",
+                        "canvas_left": 441,
+                        "canvas_top": 492,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_entrance",
+                        "canvas_left": 388,
+                        "canvas_top": 492,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_1f_entrance",
+                        "canvas_left": 375,
+                        "canvas_top": 396,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_1f_entrance",
+                        "canvas_left": 322,
+                        "canvas_top": 396,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_1f_stairs",
+                        "canvas_left": 425,
+                        "canvas_top": 230,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_1f_stairs",
+                        "canvas_left": 372,
+                        "canvas_top": 230,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_2f_stairs_nw",
+                        "canvas_left": 323,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_2f_stairs_nw",
+                        "canvas_left": 270,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_2f_stairs_ne",
+                        "canvas_left": 425,
+                        "canvas_top": 32,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_2f_stairs_ne",
+                        "canvas_left": 372,
+                        "canvas_top": 32,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_3f_stairs_nw",
+                        "canvas_left": 541,
+                        "canvas_top": 198,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_3f_stairs_nw",
+                        "canvas_left": 488,
+                        "canvas_top": 198,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_3f_stairs_n",
+                        "canvas_left": 601,
+                        "canvas_top": 230,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_3f_stairs_n",
+                        "canvas_left": 548,
+                        "canvas_top": 230,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_3f_stairs_ne",
+                        "canvas_left": 661,
+                        "canvas_top": 198,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_3f_stairs_ne",
+                        "canvas_left": 608,
+                        "canvas_top": 198,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_4f_stairs_nw",
+                        "canvas_left": 541,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_4f_stairs_nw",
+                        "canvas_left": 488,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_4f_stairs_n",
+                        "canvas_left": 601,
+                        "canvas_top": 32,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_4f_stairs_n",
+                        "canvas_left": 548,
+                        "canvas_top": 32,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sky_pillar_4f_stairs_ne",
+                        "canvas_left": 657,
+                        "canvas_top": 0,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sky_pillar_4f_stairs_ne",
+                        "canvas_left": 604,
+                        "canvas_top": 0,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "sky_pillar",
+                        "canvas_depth": 0,
+                        "canvas_left": 289,
+                        "canvas_top": 0,
+                        "width": 422,
+                        "height": 583
+                    }
+                ]
+            }
+        ]
+    }
+}

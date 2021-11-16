@@ -1,0 +1,111 @@
+{
+    "dewford": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_dewford_center",
+                        "canvas_left": 316,
+                        "canvas_top": 200,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_dewford_center",
+                        "canvas_left": 263,
+                        "canvas_top": 200,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_dewford_gym",
+                        "canvas_left": 434,
+                        "canvas_top": 356,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_dewford_gym",
+                        "canvas_left": 381,
+                        "canvas_top": 356,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_dewford_house_nw",
+                        "canvas_left": 328,
+                        "canvas_top": 40,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_dewford_house_nw",
+                        "canvas_left": 275,
+                        "canvas_top": 40,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_dewford_house_c",
+                        "canvas_left": 460,
+                        "canvas_top": 158,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_dewford_house_c",
+                        "canvas_left": 407,
+                        "canvas_top": 158,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_dewford_house_se",
+                        "canvas_left": 676,
+                        "canvas_top": 304,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_dewford_house_se",
+                        "canvas_left": 623,
+                        "canvas_top": 304,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "dewford",
+                        "canvas_depth": 0,
+                        "canvas_left": 260,
+                        "canvas_top": 0,
+                        "width": 480,
+                        "height": 480
+                    }
+                ]
+            }
+        ]
+    }
+}

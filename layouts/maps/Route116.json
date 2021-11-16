@@ -1,0 +1,57 @@
+{
+    "route_116": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_116_house",
+                        "canvas_left": 306,
+                        "canvas_top": 210,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_116_house",
+                        "canvas_left": 253,
+                        "canvas_top": 210,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_116_rusturf",
+                        "canvas_left": 626,
+                        "canvas_top": 210,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_116_rusturf",
+                        "canvas_left": 573,
+                        "canvas_top": 210,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_116",
+                        "canvas_depth": 0,
+                        "canvas_left": 56,
+                        "canvas_top": 0,
+                        "width": 888,
+                        "height": 497
+                    }
+                ]
+            }
+        ]
+    }
+}

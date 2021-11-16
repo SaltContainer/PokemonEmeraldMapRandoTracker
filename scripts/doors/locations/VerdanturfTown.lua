@@ -1,0 +1,7 @@
+DoorSlot("verdanturf", "center", DoorSlotHub("verdanturf", "center"))
+DoorSlot("verdanturf", "house_sw", DoorSlotHub("verdanturf", "house_sw"))
+DoorSlot("verdanturf", "house_s", DoorSlotHub("verdanturf", "house_s"))
+DoorSlot("verdanturf", "house_se", DoorSlotHub("verdanturf", "house_se"))
+DoorSlot("verdanturf", "mart", DoorSlotHub("verdanturf", "mart"))
+DoorSlot("verdanturf", "contest", DoorSlotHub("verdanturf", "contest"))
+DoorSlot("verdanturf", "tunnel", DoorSlotHub("verdanturf", "tunnel"))

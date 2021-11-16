@@ -1,0 +1,201 @@
+{
+    "mossdeep": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_center",
+                        "canvas_left": 255,
+                        "canvas_top": 190,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_center",
+                        "canvas_left": 202,
+                        "canvas_top": 190,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_mart",
+                        "canvas_left": 402,
+                        "canvas_top": 230,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_mart",
+                        "canvas_left": 349,
+                        "canvas_top": 230,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_gym",
+                        "canvas_left": 402,
+                        "canvas_top": 46,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_gym",
+                        "canvas_left": 349,
+                        "canvas_top": 46,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_space",
+                        "canvas_left": 835,
+                        "canvas_top": 179,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_space",
+                        "canvas_left": 782,
+                        "canvas_top": 179,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_nw",
+                        "canvas_left": 108,
+                        "canvas_top": 98,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_nw",
+                        "canvas_left": 55,
+                        "canvas_top": 98,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_n",
+                        "canvas_left": 254,
+                        "canvas_top": 82,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_n",
+                        "canvas_left": 201,
+                        "canvas_top": 82,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_ne",
+                        "canvas_left": 599,
+                        "canvas_top": 32,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_ne",
+                        "canvas_left": 546,
+                        "canvas_top": 32,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_w",
+                        "canvas_left": 92,
+                        "canvas_top": 196,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_w",
+                        "canvas_left": 39,
+                        "canvas_top": 196,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_s",
+                        "canvas_left": 394,
+                        "canvas_top": 326,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_s",
+                        "canvas_left": 341,
+                        "canvas_top": 326,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mossdeep_house_se",
+                        "canvas_left": 893,
+                        "canvas_top": 342,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mossdeep_house_se",
+                        "canvas_left": 840,
+                        "canvas_top": 342,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "mossdeep",
+                        "canvas_depth": 0,
+                        "canvas_left": 26,
+                        "canvas_top": 0,
+                        "width": 948,
+                        "height": 441
+                    }
+                ]
+            }
+        ]
+    }
+}

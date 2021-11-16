@@ -1,0 +1,93 @@
+{
+    "route_112": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_112_jagged",
+                        "canvas_left": 236,
+                        "canvas_top": 338,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_112_jagged",
+                        "canvas_left": 183,
+                        "canvas_top": 338,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_112_fiery_s",
+                        "canvas_left": 354,
+                        "canvas_top": 70,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_112_fiery_s",
+                        "canvas_left": 301,
+                        "canvas_top": 70,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_112_fiery_n",
+                        "canvas_left": 588,
+                        "canvas_top": 48,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_112_fiery_n",
+                        "canvas_left": 535,
+                        "canvas_top": 48,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_112_cable",
+                        "canvas_left": 756,
+                        "canvas_top": 490,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_112_cable",
+                        "canvas_left": 703,
+                        "canvas_top": 490,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_112",
+                        "canvas_depth": 0,
+                        "canvas_left": 122,
+                        "canvas_top": 0,
+                        "width": 756,
+                        "height": 547
+                    }
+                ]
+            }
+        ]
+    }
+}

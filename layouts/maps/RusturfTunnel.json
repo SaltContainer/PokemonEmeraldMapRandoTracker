@@ -1,0 +1,75 @@
+{
+    "rusturf_tunnel": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_rusturf_tunnel_entrance_w",
+                        "canvas_left": 171,
+                        "canvas_top": 220,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rusturf_tunnel_entrance_w",
+                        "canvas_left": 118,
+                        "canvas_top": 220,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rusturf_tunnel_entrance_s",
+                        "canvas_left": 495,
+                        "canvas_top": 452,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rusturf_tunnel_entrance_s",
+                        "canvas_left": 442,
+                        "canvas_top": 452,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_rusturf_tunnel_entrance_se",
+                        "canvas_left": 751,
+                        "canvas_top": 360,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_rusturf_tunnel_entrance_se",
+                        "canvas_left": 698,
+                        "canvas_top": 360,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "rusturf_tunnel",
+                        "canvas_depth": 0,
+                        "canvas_left": 83,
+                        "canvas_top": 0,
+                        "width": 834,
+                        "height": 556
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "slateport": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_center",
+                        "canvas_left": 519,
+                        "canvas_top": 128,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_center",
+                        "canvas_left": 466,
+                        "canvas_top": 128,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_mart",
+                        "canvas_left": 433,
+                        "canvas_top": 232,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_mart",
+                        "canvas_left": 380,
+                        "canvas_top": 232,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_contest",
+                        "canvas_left": 384,
+                        "canvas_top": 34,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_contest",
+                        "canvas_left": 331,
+                        "canvas_top": 34,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_museum",
+                        "canvas_left": 676,
+                        "canvas_top": 240,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_museum",
+                        "canvas_left": 623,
+                        "canvas_top": 240,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_fan_club",
+                        "canvas_left": 298,
+                        "canvas_top": 232,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_fan_club",
+                        "canvas_left": 245,
+                        "canvas_top": 232,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_stern",
+                        "canvas_left": 632,
+                        "canvas_top": 394,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_stern",
+                        "canvas_left": 579,
+                        "canvas_top": 394,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_house_s",
+                        "canvas_left": 547,
+                        "canvas_top": 485,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_house_s",
+                        "canvas_left": 494,
+                        "canvas_top": 485,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_slateport_house_w",
+                        "canvas_left": 319,
+                        "canvas_top": 128,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_slateport_house_w",
+                        "canvas_left": 266,
+                        "canvas_top": 128,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slateport",
+                        "canvas_depth": 0,
+                        "canvas_left": 251,
+                        "canvas_top": 0,
+                        "width": 498,
+                        "height": 584
+                    }
+                ]
+            }
+        ]
+    }
+}

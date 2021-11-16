@@ -1,0 +1,129 @@
+{
+    "mirage_tower": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_1f_s",
+                        "canvas_left": 485,
+                        "canvas_top": 536,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_1f_s",
+                        "canvas_left": 432,
+                        "canvas_top": 536,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_1f_n",
+                        "canvas_left": 541,
+                        "canvas_top": 428,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_1f_n",
+                        "canvas_left": 488,
+                        "canvas_top": 428,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_2f_s",
+                        "canvas_left": 573,
+                        "canvas_top": 340,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_2f_s",
+                        "canvas_left": 520,
+                        "canvas_top": 340,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_2f_n",
+                        "canvas_left": 541,
+                        "canvas_top": 228,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_2f_n",
+                        "canvas_left": 488,
+                        "canvas_top": 228,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_3f_s",
+                        "canvas_left": 573,
+                        "canvas_top": 138,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_3f_s",
+                        "canvas_left": 520,
+                        "canvas_top": 138,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mirage_tower_3f_n",
+                        "canvas_left": 395,
+                        "canvas_top": 50,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mirage_tower_3f_n",
+                        "canvas_left": 342,
+                        "canvas_top": 50,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "mirage_tower",
+                        "canvas_depth": 0,
+                        "canvas_left": 383,
+                        "canvas_top": 0,
+                        "width": 234,
+                        "height": 592
+                    }
+                ]
+            }
+        ]
+    }
+}

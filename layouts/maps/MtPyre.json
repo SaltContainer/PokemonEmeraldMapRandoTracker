@@ -1,0 +1,381 @@
+{
+    "mt_pyre": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_1f_entrance_s",
+                        "canvas_left": 363,
+                        "canvas_top": 296,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_1f_entrance_s",
+                        "canvas_left": 310,
+                        "canvas_top": 296,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_1f_entrance_w",
+                        "canvas_left": 139,
+                        "canvas_top": 104,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_1f_entrance_w",
+                        "canvas_left": 86,
+                        "canvas_top": 104,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_1f_stairs",
+                        "canvas_left": 249,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_1f_stairs",
+                        "canvas_left": 196,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_1f_landing",
+                        "canvas_left": 399,
+                        "canvas_top": 148,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_1f_landing",
+                        "canvas_left": 346,
+                        "canvas_top": 148,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_2f_stairs_nw",
+                        "canvas_left": 493,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_2f_stairs_nw",
+                        "canvas_left": 440,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_2f_stairs_ne",
+                        "canvas_left": 631,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_2f_stairs_ne",
+                        "canvas_left": 578,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_2f_hole",
+                        "canvas_left": 649,
+                        "canvas_top": 130,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_2f_hole",
+                        "canvas_left": 596,
+                        "canvas_top": 130,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_2f_landing_sw",
+                        "canvas_left": 571,
+                        "canvas_top": 170,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_2f_landing_sw",
+                        "canvas_left": 518,
+                        "canvas_top": 170,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_2f_landing_se",
+                        "canvas_left": 631,
+                        "canvas_top": 202,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_2f_landing_se",
+                        "canvas_left": 578,
+                        "canvas_top": 202,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_3f_stairs_nw",
+                        "canvas_left": 735,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_3f_stairs_nw",
+                        "canvas_left": 682,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_3f_stairs_ne",
+                        "canvas_left": 873,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_3f_stairs_ne",
+                        "canvas_left": 820,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_3f_hole",
+                        "canvas_left": 875,
+                        "canvas_top": 218,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_3f_hole",
+                        "canvas_left": 822,
+                        "canvas_top": 218,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_3f_landing",
+                        "canvas_left": 847,
+                        "canvas_top": 152,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_3f_landing",
+                        "canvas_left": 794,
+                        "canvas_top": 152,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_4f_stairs_nw",
+                        "canvas_left": 93,
+                        "canvas_top": 432,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_4f_stairs_nw",
+                        "canvas_left": 40,
+                        "canvas_top": 432,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_4f_stairs_ne",
+                        "canvas_left": 231,
+                        "canvas_top": 326,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_4f_stairs_ne",
+                        "canvas_left": 178,
+                        "canvas_top": 326,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_4f_hole",
+                        "canvas_left": 213,
+                        "canvas_top": 494,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_4f_hole",
+                        "canvas_left": 160,
+                        "canvas_top": 494,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_4f_landing",
+                        "canvas_left": 267,
+                        "canvas_top": 526,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_4f_landing",
+                        "canvas_left": 214,
+                        "canvas_top": 526,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_5f_landing",
+                        "canvas_left": 321,
+                        "canvas_top": 372,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_5f_landing",
+                        "canvas_left": 268,
+                        "canvas_top": 372,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_5f_hole_se",
+                        "canvas_left": 511,
+                        "canvas_top": 392,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_5f_hole_se",
+                        "canvas_left": 458,
+                        "canvas_top": 392,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_mt_pyre_5f_hole_ne",
+                        "canvas_left": 511,
+                        "canvas_top": 360,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_mt_pyre_5f_hole_ne",
+                        "canvas_left": 458,
+                        "canvas_top": 360,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "mt_pyre",
+                        "canvas_depth": 0,
+                        "canvas_left": 65,
+                        "canvas_top": 0,
+                        "width": 870,
+                        "height": 574
+                    }
+                ]
+            }
+        ]
+    }
+}

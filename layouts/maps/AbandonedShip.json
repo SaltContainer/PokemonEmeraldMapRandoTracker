@@ -1,0 +1,399 @@
+{
+    "ship": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_w_stairs",
+                        "canvas_left": 251,
+                        "canvas_top": 40,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_w_stairs",
+                        "canvas_left": 198,
+                        "canvas_top": 40,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_w_entrance",
+                        "canvas_left": 168,
+                        "canvas_top": 257,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_w_entrance",
+                        "canvas_left": 115,
+                        "canvas_top": 257,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_w_room_s",
+                        "canvas_left": 185,
+                        "canvas_top": 208,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_w_room_s",
+                        "canvas_left": 132,
+                        "canvas_top": 208,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_w_room_n",
+                        "canvas_left": 185,
+                        "canvas_top": 76,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_w_room_n",
+                        "canvas_left": 132,
+                        "canvas_top": 76,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_stairs",
+                        "canvas_left": 494,
+                        "canvas_top": 41,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_stairs",
+                        "canvas_left": 441,
+                        "canvas_top": 41,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_entrance",
+                        "canvas_left": 316,
+                        "canvas_top": 257,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_entrance",
+                        "canvas_left": 263,
+                        "canvas_top": 257,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_room_se",
+                        "canvas_left": 483,
+                        "canvas_top": 212,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_room_se",
+                        "canvas_left": 430,
+                        "canvas_top": 212,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_room_sw",
+                        "canvas_left": 345,
+                        "canvas_top": 212,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_room_sw",
+                        "canvas_left": 292,
+                        "canvas_top": 212,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_room_nw",
+                        "canvas_left": 345,
+                        "canvas_top": 72,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_room_nw",
+                        "canvas_left": 292,
+                        "canvas_top": 72,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_1f_e_room_ne",
+                        "canvas_left": 483,
+                        "canvas_top": 72,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_1f_e_room_ne",
+                        "canvas_left": 430,
+                        "canvas_top": 72,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_stairs_w",
+                        "canvas_left": 128,
+                        "canvas_top": 347,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_stairs_w",
+                        "canvas_left": 75,
+                        "canvas_top": 347,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_stairs_e",
+                        "canvas_left": 315,
+                        "canvas_top": 347,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_stairs_e",
+                        "canvas_left": 262,
+                        "canvas_top": 347,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_nw",
+                        "canvas_left": 181,
+                        "canvas_top": 379,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_nw",
+                        "canvas_left": 128,
+                        "canvas_top": 379,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_n",
+                        "canvas_left": 265,
+                        "canvas_top": 411,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_n",
+                        "canvas_left": 212,
+                        "canvas_top": 411,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_ne",
+                        "canvas_left": 370,
+                        "canvas_top": 379,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_ne",
+                        "canvas_left": 317,
+                        "canvas_top": 379,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_sw",
+                        "canvas_left": 224,
+                        "canvas_top": 497,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_sw",
+                        "canvas_left": 171,
+                        "canvas_top": 497,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_s",
+                        "canvas_left": 304,
+                        "canvas_top": 465,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_s",
+                        "canvas_left": 251,
+                        "canvas_top": 465,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_b1f_room_se",
+                        "canvas_left": 383,
+                        "canvas_top": 497,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_b1f_room_se",
+                        "canvas_left": 330,
+                        "canvas_top": 497,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_rooms_ne",
+                        "canvas_left": 757,
+                        "canvas_top": 160,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_rooms_ne",
+                        "canvas_left": 704,
+                        "canvas_top": 160,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_rooms_sw",
+                        "canvas_left": 553,
+                        "canvas_top": 521,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_rooms_sw",
+                        "canvas_left": 500,
+                        "canvas_top": 521,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_ship_rooms_se",
+                        "canvas_left": 773,
+                        "canvas_top": 521,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_ship_rooms_se",
+                        "canvas_left": 720,
+                        "canvas_top": 521,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "ship",
+                        "canvas_depth": 0,
+                        "canvas_left": 115,
+                        "canvas_top": 0,
+                        "width": 769,
+                        "height": 553
+                    }
+                ]
+            }
+        ]
+    }
+}

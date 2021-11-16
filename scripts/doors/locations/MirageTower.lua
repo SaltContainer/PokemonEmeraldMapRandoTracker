@@ -1,0 +1,6 @@
+DoorSlot("mirage_tower", "1f_s", DoorSlotHub("mirage_tower", "1f_s"))
+DoorSlot("mirage_tower", "1f_n", DoorSlotHub("mirage_tower", "1f_n"))
+DoorSlot("mirage_tower", "2f_s", DoorSlotHub("mirage_tower", "2f_s"))
+DoorSlot("mirage_tower", "2f_n", DoorSlotHub("mirage_tower", "2f_n"))
+DoorSlot("mirage_tower", "3f_s", DoorSlotHub("mirage_tower", "3f_s"))
+DoorSlot("mirage_tower", "3f_n", DoorSlotHub("mirage_tower", "3f_n"))

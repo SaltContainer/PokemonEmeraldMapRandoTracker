@@ -1,0 +1,201 @@
+{
+    "victory_road": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_s_ladder_sw",
+                        "canvas_left": 315,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_s_ladder_sw",
+                        "canvas_left": 262,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_s_ladder_e",
+                        "canvas_left": 461,
+                        "canvas_top": 184,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_s_ladder_e",
+                        "canvas_left": 408,
+                        "canvas_top": 184,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_s_ladder_ne",
+                        "canvas_left": 429,
+                        "canvas_top": 144,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_s_ladder_ne",
+                        "canvas_left": 376,
+                        "canvas_top": 144,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_n_ladder_nw",
+                        "canvas_left": 345,
+                        "canvas_top": 30,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_n_ladder_nw",
+                        "canvas_left": 292,
+                        "canvas_top": 30,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_n_ladder_sw",
+                        "canvas_left": 553,
+                        "canvas_top": 244,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_n_ladder_sw",
+                        "canvas_left": 500,
+                        "canvas_top": 244,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b1f_n_ladder_se",
+                        "canvas_left": 667,
+                        "canvas_top": 212,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b1f_n_ladder_se",
+                        "canvas_left": 614,
+                        "canvas_top": 212,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b2f_ladder_sw",
+                        "canvas_left": 317,
+                        "canvas_top": 524,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b2f_ladder_sw",
+                        "canvas_left": 264,
+                        "canvas_top": 524,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b2f_ladder_se",
+                        "canvas_left": 555,
+                        "canvas_top": 514,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b2f_ladder_se",
+                        "canvas_left": 502,
+                        "canvas_top": 514,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b2f_ladder_c",
+                        "canvas_left": 449,
+                        "canvas_top": 392,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b2f_ladder_c",
+                        "canvas_left": 396,
+                        "canvas_top": 392,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_victory_road_b2f_ladder_ne",
+                        "canvas_left": 667,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_victory_road_b2f_ladder_ne",
+                        "canvas_left": 614,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "victory_road",
+                        "canvas_depth": 0,
+                        "canvas_left": 281,
+                        "canvas_top": 0,
+                        "width": 438,
+                        "height": 599
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "route_113": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_113_glass",
+                        "canvas_left": 597,
+                        "canvas_top": 236,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_113_glass",
+                        "canvas_left": 544,
+                        "canvas_top": 236,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_113",
+                        "canvas_depth": 0,
+                        "canvas_left": 161,
+                        "canvas_top": 0,
+                        "width": 678,
+                        "height": 452
+                    }
+                ]
+            }
+        ]
+    }
+}

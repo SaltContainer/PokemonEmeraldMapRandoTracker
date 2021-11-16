@@ -1,0 +1,93 @@
+{
+    "route_110": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_route_110_trick",
+                        "canvas_left": 333,
+                        "canvas_top": 382,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_110_trick",
+                        "canvas_left": 280,
+                        "canvas_top": 382,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_110_cycling_n",
+                        "canvas_left": 333,
+                        "canvas_top": 106,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_110_cycling_n",
+                        "canvas_left": 280,
+                        "canvas_top": 106,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_110_cycling_s",
+                        "canvas_left": 565,
+                        "canvas_top": 474,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_110_cycling_s",
+                        "canvas_left": 512,
+                        "canvas_top": 474,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_route_110_new_mauville",
+                        "canvas_left": 635,
+                        "canvas_top": 154,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_route_110_new_mauville",
+                        "canvas_left": 582,
+                        "canvas_top": 154,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "route_110",
+                        "canvas_depth": 0,
+                        "canvas_left": 245,
+                        "canvas_top": 0,
+                        "width": 510,
+                        "height": 556
+                    }
+                ]
+            }
+        ]
+    }
+}

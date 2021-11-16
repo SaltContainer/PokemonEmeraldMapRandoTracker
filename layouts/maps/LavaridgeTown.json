@@ -1,0 +1,165 @@
+{
+    "lavaridge": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_center",
+                        "canvas_left": 287,
+                        "canvas_top": 142,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_center",
+                        "canvas_left": 234,
+                        "canvas_top": 142,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_mart",
+                        "canvas_left": 445,
+                        "canvas_top": 110,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_mart",
+                        "canvas_left": 392,
+                        "canvas_top": 110,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_gym",
+                        "canvas_left": 155,
+                        "canvas_top": 320,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_gym",
+                        "canvas_left": 102,
+                        "canvas_top": 320,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_house_s",
+                        "canvas_left": 366,
+                        "canvas_top": 378,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_house_s",
+                        "canvas_left": 313,
+                        "canvas_top": 378,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_house_se",
+                        "canvas_left": 470,
+                        "canvas_top": 346,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_house_se",
+                        "canvas_left": 417,
+                        "canvas_top": 346,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_center_entrance",
+                        "canvas_left": 759,
+                        "canvas_top": 206,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_center_entrance",
+                        "canvas_left": 706,
+                        "canvas_top": 206,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_center_stairs",
+                        "canvas_left": 612,
+                        "canvas_top": 152,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_center_stairs",
+                        "canvas_left": 559,
+                        "canvas_top": 152,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_lavaridge_center_hot_spring",
+                        "canvas_left": 640,
+                        "canvas_top": 26,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_lavaridge_center_hot_spring",
+                        "canvas_left": 587,
+                        "canvas_top": 26,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "lavaridge",
+                        "canvas_depth": 0,
+                        "canvas_left": 42,
+                        "canvas_top": 0,
+                        "width": 916,
+                        "height": 523
+                    }
+                ]
+            }
+        ]
+    }
+}

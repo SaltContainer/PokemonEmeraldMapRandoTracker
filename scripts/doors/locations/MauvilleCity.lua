@@ -1,0 +1,7 @@
+DoorSlot("mauville", "center", DoorSlotHub("mauville", "center"))
+DoorSlot("mauville", "house_se", DoorSlotHub("mauville", "house_se"))
+DoorSlot("mauville", "house_sw", DoorSlotHub("mauville", "house_sw"))
+DoorSlot("mauville", "mart", DoorSlotHub("mauville", "mart"))
+DoorSlot("mauville", "gym", DoorSlotHub("mauville", "gym"))
+DoorSlot("mauville", "casino", DoorSlotHub("mauville", "casino"))
+DoorSlot("mauville", "bike", DoorSlotHub("mauville", "bike"))

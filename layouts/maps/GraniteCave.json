@@ -1,0 +1,219 @@
+{
+    "granite": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_granite_1f_hole_w",
+                        "canvas_left": 304,
+                        "canvas_top": 94,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_1f_hole_w",
+                        "canvas_left": 251,
+                        "canvas_top": 94,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_1f_hole_e",
+                        "canvas_left": 676,
+                        "canvas_top": 118,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_1f_hole_e",
+                        "canvas_left": 623,
+                        "canvas_top": 118,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_1f_ladder_w",
+                        "canvas_left": 444,
+                        "canvas_top": 126,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_1f_ladder_w",
+                        "canvas_left": 391,
+                        "canvas_top": 126,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_1f_ladder_e",
+                        "canvas_left": 652,
+                        "canvas_top": 10,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_1f_ladder_e",
+                        "canvas_left": 599,
+                        "canvas_top": 10,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b1f_ladder_nw",
+                        "canvas_left": 454,
+                        "canvas_top": 250,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b1f_ladder_nw",
+                        "canvas_left": 401,
+                        "canvas_top": 250,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b1f_ladder_n",
+                        "canvas_left": 502,
+                        "canvas_top": 192,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b1f_ladder_n",
+                        "canvas_left": 449,
+                        "canvas_top": 192,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b1f_ladder_ne",
+                        "canvas_left": 698,
+                        "canvas_top": 216,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b1f_ladder_ne",
+                        "canvas_left": 645,
+                        "canvas_top": 216,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b1f_ladder_sw",
+                        "canvas_left": 408,
+                        "canvas_top": 400,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b1f_ladder_sw",
+                        "canvas_left": 355,
+                        "canvas_top": 400,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b1f_ladder_se",
+                        "canvas_left": 686,
+                        "canvas_top": 400,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b1f_ladder_se",
+                        "canvas_left": 633,
+                        "canvas_top": 400,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b2f_ladder_w",
+                        "canvas_left": 456,
+                        "canvas_top": 560,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b2f_ladder_w",
+                        "canvas_left": 403,
+                        "canvas_top": 560,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_granite_b2f_ladder_e",
+                        "canvas_left": 502,
+                        "canvas_top": 506,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_granite_b2f_ladder_e",
+                        "canvas_left": 449,
+                        "canvas_top": 506,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "granite",
+                        "canvas_depth": 0,
+                        "canvas_left": 256,
+                        "canvas_top": 0,
+                        "width": 488,
+                        "height": 592
+                    }
+                ]
+            }
+        ]
+    }
+}

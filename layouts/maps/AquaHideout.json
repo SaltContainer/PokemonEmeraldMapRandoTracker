@@ -1,0 +1,417 @@
+{
+    "aqua_hideout": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_motor_stairs",
+                        "canvas_left": 79,
+                        "canvas_top": 12,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_motor_stairs",
+                        "canvas_left": 26,
+                        "canvas_top": 12,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_motor_w",
+                        "canvas_left": 79,
+                        "canvas_top": 200,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_motor_w",
+                        "canvas_left": 26,
+                        "canvas_top": 200,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_motor_e",
+                        "canvas_left": 305,
+                        "canvas_top": 116,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_motor_e",
+                        "canvas_left": 252,
+                        "canvas_top": 116,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_storage_stairs",
+                        "canvas_left": 513,
+                        "canvas_top": 152,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_storage_stairs",
+                        "canvas_left": 460,
+                        "canvas_top": 152,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_storage_w",
+                        "canvas_left": 444,
+                        "canvas_top": 204,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_storage_w",
+                        "canvas_left": 391,
+                        "canvas_top": 204,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_storage_e",
+                        "canvas_left": 582,
+                        "canvas_top": 204,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_storage_e",
+                        "canvas_left": 529,
+                        "canvas_top": 204,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_long_nw",
+                        "canvas_left": 61,
+                        "canvas_top": 390,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_long_nw",
+                        "canvas_left": 8,
+                        "canvas_top": 390,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_long_sw",
+                        "canvas_left": 61,
+                        "canvas_top": 476,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_long_sw",
+                        "canvas_left": 8,
+                        "canvas_top": 476,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_long_e",
+                        "canvas_left": 565,
+                        "canvas_top": 498,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_long_e",
+                        "canvas_left": 512,
+                        "canvas_top": 498,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps1_n",
+                        "canvas_left": 791,
+                        "canvas_top": 180,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps1_n",
+                        "canvas_left": 738,
+                        "canvas_top": 180,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps1_w",
+                        "canvas_left": 653,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps1_w",
+                        "canvas_left": 600,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps1_c",
+                        "canvas_left": 791,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps1_c",
+                        "canvas_left": 738,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps1_e",
+                        "canvas_left": 929,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps1_e",
+                        "canvas_left": 876,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps2_w",
+                        "canvas_left": 653,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps2_w",
+                        "canvas_left": 600,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps2_c",
+                        "canvas_left": 791,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps2_c",
+                        "canvas_left": 738,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps2_e",
+                        "canvas_left": 929,
+                        "canvas_top": 324,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps2_e",
+                        "canvas_left": 876,
+                        "canvas_top": 324,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps3_w",
+                        "canvas_left": 653,
+                        "canvas_top": 394,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps3_w",
+                        "canvas_left": 600,
+                        "canvas_top": 394,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps3_c",
+                        "canvas_left": 791,
+                        "canvas_top": 394,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps3_c",
+                        "canvas_left": 738,
+                        "canvas_top": 394,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps3_e",
+                        "canvas_left": 929,
+                        "canvas_top": 394,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps3_e",
+                        "canvas_left": 876,
+                        "canvas_top": 394,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps4_w",
+                        "canvas_left": 653,
+                        "canvas_top": 464,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps4_w",
+                        "canvas_left": 600,
+                        "canvas_top": 464,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps4_c",
+                        "canvas_left": 791,
+                        "canvas_top": 464,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps4_c",
+                        "canvas_left": 738,
+                        "canvas_top": 464,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_aqua_hideout_warps4_e",
+                        "canvas_left": 929,
+                        "canvas_top": 464,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_aqua_hideout_warps4_e",
+                        "canvas_left": 876,
+                        "canvas_top": 464,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "aqua_hideout",
+                        "canvas_depth": 0,
+                        "canvas_left": 17,
+                        "canvas_top": 0,
+                        "width": 886,
+                        "height": 574
+                    }
+                ]
+            }
+        ]
+    }
+}

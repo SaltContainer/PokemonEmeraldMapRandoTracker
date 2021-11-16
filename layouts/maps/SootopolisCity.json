@@ -1,0 +1,255 @@
+{
+    "sootopolis": {
+        "type": "container",
+        "content": [
+            {
+                "type": "canvas",
+                "content": [
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_center",
+                        "canvas_left": 650,
+                        "canvas_top": 338,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_center",
+                        "canvas_left": 597,
+                        "canvas_top": 338,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_mart",
+                        "canvas_left": 316,
+                        "canvas_top": 312,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_mart",
+                        "canvas_left": 263,
+                        "canvas_top": 312,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_gym",
+                        "canvas_left": 484,
+                        "canvas_top": 336,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_gym",
+                        "canvas_left": 431,
+                        "canvas_top": 336,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_dive",
+                        "canvas_left": 480,
+                        "canvas_top": 536,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_dive",
+                        "canvas_left": 427,
+                        "canvas_top": 536,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_w1",
+                        "canvas_left": 208,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_w1",
+                        "canvas_left": 155,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_w2",
+                        "canvas_left": 208,
+                        "canvas_top": 156,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_w2",
+                        "canvas_left": 155,
+                        "canvas_top": 156,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_w3",
+                        "canvas_left": 208,
+                        "canvas_top": 268,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_w3",
+                        "canvas_left": 155,
+                        "canvas_top": 268,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_w4",
+                        "canvas_left": 196,
+                        "canvas_top": 386,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_w4",
+                        "canvas_left": 143,
+                        "canvas_top": 386,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_e1",
+                        "canvas_left": 670,
+                        "canvas_top": 16,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_e1",
+                        "canvas_left": 617,
+                        "canvas_top": 16,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_e2",
+                        "canvas_left": 656,
+                        "canvas_top": 158,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_e2",
+                        "canvas_left": 603,
+                        "canvas_top": 158,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_e3",
+                        "canvas_left": 707,
+                        "canvas_top": 254,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_e3",
+                        "canvas_left": 654,
+                        "canvas_top": 254,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_e4",
+                        "canvas_left": 772,
+                        "canvas_top": 296,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_e4",
+                        "canvas_left": 719,
+                        "canvas_top": 296,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "slot_sootopolis_house_e5",
+                        "canvas_left": 746,
+                        "canvas_top": 398,
+                        "width": 32,
+                        "height": 32,
+                        "canvas_depth": 2
+                    },
+                    {
+                        "type": "item",
+                        "item": "hubslot_sootopolis_house_e5",
+                        "canvas_left": 693,
+                        "canvas_top": 398,
+                        "width": 138,
+                        "height": 32,
+                        "canvas_depth": 1
+                    },
+                    {
+                        "type": "item",
+                        "item": "sootopolis",
+                        "canvas_depth": 0,
+                        "canvas_left": 180,
+                        "canvas_top": 0,
+                        "width": 640,
+                        "height": 588
+                    }
+                ]
+            }
+        ]
+    }
+}
