@@ -1,16 +1,18 @@
 DoorSlotHub = CustomItem:extend()
 
-function DoorSlotHub:init(roomSlot, doorSlot)
+function DoorSlotHub:init(roomSlot, doorSlot, sqIcon)
     self:createItem("Door Slot")
     self.code = "hubslot_" .. roomSlot .. "_" .. doorSlot
     self.roomSlot = roomSlot
     self.doorSlot = doorSlot
+    self.sqIcon = sqIcon
 
     self:setState(1)
 end
 
 function DoorSlotHub:setState(state)
     self:setProperty("state", state)
+    self.sqIcon:setState(state)
 end
 
 function DoorSlotHub:getState()
@@ -32,11 +34,31 @@ function DoorSlotHub:updateIcon()
 end
 
 function DoorSlotHub:onLeftClick()
-    
+    local state = self:getState()
+    if DoorSlotSelection.Selection == 0 then
+        state = (state % #DoorSlot.Icons) + 1
+    else
+        state = DoorSlotSelection.Selection
+    end
+
+    self:setState(state)
+    self.sqIcon:setState(state)
+    self:updateIcon()
+    self.sqIcon:updateIcon()
 end
 
 function DoorSlotHub:onRightClick()
-    
+    local state = self:getState()
+    if DoorSlotSelection.Selection == 0 then
+        state = (state - 2) % #DoorSlot.Icons + 1
+    else
+        state = 1
+    end
+
+    self:setState(state)
+    self.sqIcon:setState(state)
+    self:updateIcon()
+    self.sqIcon:updateIcon()
 end
 
 function DoorSlotHub:canProvideCode(code)

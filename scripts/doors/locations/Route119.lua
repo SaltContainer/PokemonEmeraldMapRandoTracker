@@ -1,2 +1,6 @@
-DoorSlot("route_119", "weather", DoorSlotHub("route_119", "weather"))
-DoorSlot("route_119", "house", DoorSlotHub("route_119", "house"))
+local route_119_weather = DoorSlot("route_119", "weather")
+local route_119_weather_hub = DoorSlotHub("route_119", "weather", route_119_weather)
+route_119_weather:setHubIcon(route_119_weather_hub)
+local route_119_house = DoorSlot("route_119", "house")
+local route_119_house_hub = DoorSlotHub("route_119", "house", route_119_house)
+route_119_house:setHubIcon(route_119_house_hub)

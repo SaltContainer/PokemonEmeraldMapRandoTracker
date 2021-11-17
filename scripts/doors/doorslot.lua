@@ -90,20 +90,24 @@ DoorSlot.Icons = {
     [87] = "locations/sky_pillar",
     [88] = "locations/victory_road"
 }
+DoorSlot.Selection = "slot_oldale_center"
 
-function DoorSlot:init(roomSlot, doorSlot, hubIcon)
+function DoorSlot:init(roomSlot, doorSlot)
     self:createItem("Door Slot")
     self.code = "slot_" .. roomSlot .. "_" .. doorSlot
     self.roomSlot = roomSlot
     self.doorSlot = doorSlot
-    self.hubIcon = hubIcon
+    self.hubIcon = nil
 
     self:setState(1)
 end
 
+function DoorSlot:setHubIcon(hubIcon)
+    self.hubIcon = hubIcon
+end
+
 function DoorSlot:setState(state)
     self:setProperty("state", state)
-    self.hubIcon:setState(state)
 end
 
 function DoorSlot:getState()
@@ -121,7 +125,6 @@ function DoorSlot:updateIcon()
         self.ItemInstance.Icon = ImageReference:FromPackRelativePath(imgPath)
     else
         self.ItemInstance.Icon = nil
-        self.hubIcon:updateIcon()
     end
 end
 
@@ -134,8 +137,9 @@ function DoorSlot:onLeftClick()
     end
 
     self:setState(state)
+    self.hubIcon:setState(state)
     self:updateIcon()
-    refreshDoorSlots()
+    self.hubIcon:updateIcon()
 end
 
 function DoorSlot:onRightClick()
@@ -147,8 +151,9 @@ function DoorSlot:onRightClick()
     end
 
     self:setState(state)
+    self.hubIcon:setState(state)
     self:updateIcon()
-    refreshDoorSlots()
+    self.hubIcon:updateIcon()
 end
 
 function DoorSlot:canProvideCode(code)
