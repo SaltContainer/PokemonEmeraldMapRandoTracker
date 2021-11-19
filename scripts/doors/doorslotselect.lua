@@ -132,14 +132,24 @@ function DoorSlotSelection:updateNeighbors()
 end
 
 function DoorSlotSelection:onLeftClick()
-    DoorSlotSelection.Selection = self.index
-    self:setState(1)
-    self:updateIcon()
-    self:updateNeighbors()
+    local selection = self.index
+    local current_warp = Tracker:FindObjectForCode(DoorSlot.Selection).ItemState
+    local current_warp_hub = current_warp.hubIcon
+    if current_warp and current_warp_hub then
+        current_warp:setState(selection)
+        current_warp_hub:setState(selection)
+        if selection < 41 then
+            current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[selection] .. ".png", "overlay|images/other/selected_tag.png")
+        else
+            current_warp_hub.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[selection] .. ".png", "overlay|images/other/selected_hub.png")
+        end
+    end
 end
 
 function DoorSlotSelection:onRightClick()
-    self:onLeftClick()
+    DoorSlotSelection.Selection = self.index
+    self:setState(1)
+    self:updateNeighbors()
 end
 
 function DoorSlotSelection:canProvideCode(code)

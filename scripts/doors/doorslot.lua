@@ -106,6 +106,32 @@ function DoorSlot:setHubIcon(hubIcon)
     self.hubIcon = hubIcon
 end
 
+function DoorSlot:setSelection()
+    DoorSlot.Selection = self.code
+end
+
+function DoorSlot:removeSelectionOverlay()
+    local current_warp = Tracker:FindObjectForCode(DoorSlot.Selection).ItemState
+    local state = current_warp:getState()
+    if state < 41 then
+        current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "")
+    else
+        current_warp = Tracker:FindObjectForCode("hub" .. DoorSlot.Selection).ItemState
+        current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "")
+    end
+end
+
+function DoorSlot:addSelectionOverlay()
+    local state = self:getState()
+    if state < 41 then
+        local current_warp = Tracker:FindObjectForCode(DoorSlot.Selection).ItemState
+        current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "overlay|images/other/selected_tag.png")
+    else
+        local current_warp = Tracker:FindObjectForCode("hub" .. DoorSlot.Selection).ItemState
+        current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "overlay|images/other/selected_hub.png")
+    end
+end
+
 function DoorSlot:setState(state)
     self:setProperty("state", state)
 end
@@ -114,46 +140,30 @@ function DoorSlot:getState()
     return self:getProperty("state")
 end
 
-function DoorSlot:setDisabled()
-    self.ItemInstance.IgnoreUserInput = self:getState() == 0
-end
-
 function DoorSlot:updateIcon()
     if self:getState() < 41 then
         local img = DoorSlot.Icons[self:getState()]
         local imgPath = "images/" .. img .. ".png"
-        self.ItemInstance.Icon = ImageReference:FromPackRelativePath(imgPath)
+        local overlay = ""
+        if self.code == DoorSlot.Selection then
+            overlay = "overlay|images/other/selected_tag.png"
+        end
+        self.ItemInstance.Icon = ImageReference:FromPackRelativePath(imgPath, overlay)
     else
         self.ItemInstance.Icon = nil
     end
 end
 
 function DoorSlot:onLeftClick()
-    local state = self:getState()
-    if DoorSlotSelection.Selection == 0 then
-        state = (state % #DoorSlot.Icons) + 1
-    else
-        state = DoorSlotSelection.Selection
-    end
-
-    self:setState(state)
-    self.hubIcon:setState(state)
-    self:updateIcon()
-    self.hubIcon:updateIcon()
+    self:removeSelectionOverlay()
+    self:setSelection()
+    self:addSelectionOverlay()
 end
 
 function DoorSlot:onRightClick()
-    local state = self:getState()
-    if DoorSlotSelection.Selection == 0 then
-        state = (state - 2) % #DoorSlot.Icons + 1
-    else
-        state = 1
-    end
-
+    local state = DoorSlotSelection.Selection
     self:setState(state)
     self.hubIcon:setState(state)
-    self:updateIcon()
-    self.hubIcon:updateIcon()
 end
 
 function DoorSlot:canProvideCode(code)
@@ -180,6 +190,5 @@ end
 function DoorSlot:propertyChanged(key, value)
     if key == "state" then
         self:updateIcon()
-        self:setDisabled()
     end
 end

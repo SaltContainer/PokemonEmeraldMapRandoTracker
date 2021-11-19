@@ -52,3 +52,8 @@ for t = 1, #DoorSlot.Icons do
         DoorSlotSelection(t)
     end
 end
+
+local dead_end = Tracker:FindObjectForCode("doorslot_dead_end")
+if dead_end then
+    dead_end.ItemState:onRightClick()
+end
