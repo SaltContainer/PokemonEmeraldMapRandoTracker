@@ -11,7 +11,7 @@
                     "item_margin": "1,2",
                     "rows": [
                         [
-                            "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer"
+                            "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer", "doorslot_center", "doorslot_mart", "doorslot_bike"
                         ],
                         [
                             "doorslot_stone_badge", "doorslot_knuckle_badge", "doorslot_dynamo_badge", "doorslot_heat_badge", "doorslot_balance_badge", "doorslot_feather_badge", "doorslot_mind_badge", "doorslot_rain_badge"
@@ -27,6 +27,9 @@
                         ],
                         [
                             "doorslot_custom1", "doorslot_custom2", "doorslot_custom3", "doorslot_custom4", "doorslot_custom5", "doorslot_custom6", "doorslot_custom7", "doorslot_custom8"
+                        ],
+                        [
+                            "doorslot_1", "doorslot_2", "doorslot_3", "doorslot_4", "doorslot_5", "doorslot_6", "doorslot_7", "doorslot_8"
                         ]
                     ]
                 }
@@ -87,6 +90,9 @@
                         ],
                         [
                             "doorslot_abandoned_ship", "doorslot_sky_pillar", "doorslot_victory_road"
+                        ],
+                        [
+                            "doorslot_dept"
                         ]
                     ]
                 }

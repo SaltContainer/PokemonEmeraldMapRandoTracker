@@ -41,54 +41,66 @@ DoorSlot.Icons = {
     [38] = "types/fairy",
     [39] = "types/bug",
     [40] = "types/psychic",
-    [41] = "locations/oldale",
-    [42] = "locations/petalburg",
-    [43] = "locations/rustboro",
-    [44] = "locations/dewford",
-    [45] = "locations/slateport",
-    [46] = "locations/mauville",
-    [47] = "locations/verdanturf",
-    [48] = "locations/lavaridge",
-    [49] = "locations/fallarbor",
-    [50] = "locations/fortree",
-    [51] = "locations/lilycove",
-    [52] = "locations/mossdeep",
-    [53] = "locations/sootopolis",
-    [54] = "locations/pacifidlog",
-    [55] = "locations/ever_grande",
-    [56] = "locations/route_104",
-    [57] = "locations/route_105",
-    [58] = "locations/route_106",
-    [59] = "locations/route_108",
-    [60] = "locations/route_109",
-    [61] = "locations/route_110",
-    [62] = "locations/route_111",
-    [63] = "locations/route_112",
-    [64] = "locations/route_113",
-    [65] = "locations/route_114",
-    [66] = "locations/route_115",
-    [67] = "locations/route_116",
-    [68] = "locations/route_117",
-    [69] = "locations/route_119",
-    [70] = "locations/route_120",
-    [71] = "locations/route_122",
-    [72] = "locations/route_123",
-    [73] = "locations/route_124",
-    [74] = "locations/underwater",
-    [75] = "locations/aqua_hideout",
-    [76] = "locations/granite",
-    [77] = "locations/jagged_pass",
-    [78] = "locations/magma_hideout",
-    [79] = "locations/meteor_falls",
-    [80] = "locations/mirage_tower",
-    [81] = "locations/navel_rock",
-    [82] = "locations/petalburg_woods",
-    [83] = "locations/mt_pyre",
-    [84] = "locations/rusturf_tunnel",
-    [85] = "locations/seafloor_cavern",
-    [86] = "locations/abandoned_ship",
-    [87] = "locations/sky_pillar",
-    [88] = "locations/victory_road"
+    [41] = "other/center",
+    [42] = "other/mart",
+    [43] = "other/bike",
+    [44] = "numbers/1",
+    [45] = "numbers/2",
+    [46] = "numbers/3",
+    [47] = "numbers/4",
+    [48] = "numbers/5",
+    [49] = "numbers/6",
+    [50] = "numbers/7",
+    [51] = "numbers/8",
+    [52] = "locations/oldale",
+    [53] = "locations/petalburg",
+    [54] = "locations/rustboro",
+    [55] = "locations/dewford",
+    [56] = "locations/slateport",
+    [57] = "locations/mauville",
+    [58] = "locations/verdanturf",
+    [59] = "locations/lavaridge",
+    [60] = "locations/fallarbor",
+    [61] = "locations/fortree",
+    [62] = "locations/lilycove",
+    [63] = "locations/mossdeep",
+    [64] = "locations/sootopolis",
+    [65] = "locations/pacifidlog",
+    [66] = "locations/ever_grande",
+    [67] = "locations/route_104",
+    [68] = "locations/route_105",
+    [69] = "locations/route_106",
+    [70] = "locations/route_108",
+    [71] = "locations/route_109",
+    [72] = "locations/route_110",
+    [73] = "locations/route_111",
+    [74] = "locations/route_112",
+    [75] = "locations/route_113",
+    [76] = "locations/route_114",
+    [77] = "locations/route_115",
+    [78] = "locations/route_116",
+    [79] = "locations/route_117",
+    [80] = "locations/route_119",
+    [81] = "locations/route_120",
+    [82] = "locations/route_122",
+    [83] = "locations/route_123",
+    [84] = "locations/route_124",
+    [85] = "locations/underwater",
+    [86] = "locations/aqua_hideout",
+    [87] = "locations/granite",
+    [88] = "locations/jagged_pass",
+    [89] = "locations/magma_hideout",
+    [90] = "locations/meteor_falls",
+    [91] = "locations/mirage_tower",
+    [92] = "locations/navel_rock",
+    [93] = "locations/petalburg_woods",
+    [94] = "locations/mt_pyre",
+    [95] = "locations/rusturf_tunnel",
+    [96] = "locations/seafloor_cavern",
+    [97] = "locations/abandoned_ship",
+    [98] = "locations/sky_pillar",
+    [99] = "locations/victory_road",
+    [100] = "locations/dept"
 }
 DoorSlot.Selection = "slot_oldale_center"
 
@@ -113,7 +125,7 @@ end
 function DoorSlot:removeSelectionOverlay()
     local current_warp = Tracker:FindObjectForCode(DoorSlot.Selection).ItemState
     local state = current_warp:getState()
-    if state < 41 then
+    if state < 52 then
         current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "")
     else
         current_warp = Tracker:FindObjectForCode("hub" .. DoorSlot.Selection).ItemState
@@ -123,7 +135,7 @@ end
 
 function DoorSlot:addSelectionOverlay()
     local state = self:getState()
-    if state < 41 then
+    if state < 52 then
         local current_warp = Tracker:FindObjectForCode(DoorSlot.Selection).ItemState
         current_warp.ItemInstance.Icon = ImageReference:FromPackRelativePath("images/" .. DoorSlot.Icons[state] .. ".png", "overlay|images/other/selected_tag.png")
     else
@@ -141,7 +153,7 @@ function DoorSlot:getState()
 end
 
 function DoorSlot:updateIcon()
-    if self:getState() < 41 then
+    if self:getState() < 52 then
         local img = DoorSlot.Icons[self:getState()]
         local imgPath = "images/" .. img .. ".png"
         local overlay = ""
