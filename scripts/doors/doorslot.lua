@@ -102,7 +102,7 @@ DoorSlot.Icons = {
     [99] = "locations/victory_road",
     [100] = "locations/dept"
 }
-DoorSlot.Selection = "slot_oldale_center"
+DoorSlot.Selection = "slot_ship_1f_w_stairs"
 
 function DoorSlot:init(roomSlot, doorSlot)
     self:createItem("Door Slot")
