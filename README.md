@@ -16,7 +16,8 @@ It's an EmoTracker pack with maps for the [Universal Warp Randomizer](https://ww
 
 ## Usage
 
-Each warp can be given an icon. To add an icon to a warp, simply click on the icon on the left, then click on the warp.
+Each warp can be given an icon. To add an icon to a warp, simply left-click on a warp to select it, then left-click on the icon on the left.\
+An icon can also be selected as a "quick-mark". Right-click an icon on the left to select it. Right-click a warp to mark it as that icon.
 
 ## Bugs? Suggestions?
 

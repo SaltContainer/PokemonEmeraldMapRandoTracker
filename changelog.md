@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4
+- Switched the selection order (warp first, then icon)
+- Fixed long icons not being selectable outside of the center
+- Right-click to select a "quick-mark" icon, right-click on a warp to use
+- Added Center, Mart, Bike, Numbers, and Department Store icons
+- Alphabetically ordered tabs
+
 ## 0.3
 - Changed the entire system to use codemann8's Door Randomizer tracking system
 
