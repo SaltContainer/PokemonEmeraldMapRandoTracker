@@ -6,24 +6,17 @@
             "width": 1000,
             "tabs": [
                 {
-                    "title": "Oldale Town",
+                    "title": "Abandoned Ship",
                     "content": {
                         "type": "layout",
-                        "key": "oldale"
+                        "key": "ship"
                     }
                 },
                 {
-                    "title": "Petalburg City",
+                    "title": "Aqua Hideout",
                     "content": {
                         "type": "layout",
-                        "key": "petalburg"
-                    }
-                },
-                {
-                    "title": "Rustboro City",
-                    "content": {
-                        "type": "layout",
-                        "key": "rustboro"
+                        "key": "aqua_hideout"
                     }
                 },
                 {
@@ -34,31 +27,10 @@
                     }
                 },
                 {
-                    "title": "Slateport City",
+                    "title": "Ever Grande City",
                     "content": {
                         "type": "layout",
-                        "key": "slateport"
-                    }
-                },
-                {
-                    "title": "Mauville City",
-                    "content": {
-                        "type": "layout",
-                        "key": "mauville"
-                    }
-                },
-                {
-                    "title": "Verdanturf Town",
-                    "content": {
-                        "type": "layout",
-                        "key": "verdanturf"
-                    }
-                },
-                {
-                    "title": "Lavaridge Town",
-                    "content": {
-                        "type": "layout",
-                        "key": "lavaridge"
+                        "key": "ever_grande"
                     }
                 },
                 {
@@ -76,10 +48,59 @@
                     }
                 },
                 {
+                    "title": "Granite Cave",
+                    "content": {
+                        "type": "layout",
+                        "key": "granite"
+                    }
+                },
+                {
+                    "title": "Jagged Pass",
+                    "content": {
+                        "type": "layout",
+                        "key": "jagged_pass"
+                    }
+                },
+                {
+                    "title": "Lavaridge Town",
+                    "content": {
+                        "type": "layout",
+                        "key": "lavaridge"
+                    }
+                },
+                {
                     "title": "Lilycove City",
                     "content": {
                         "type": "layout",
                         "key": "lilycove"
+                    }
+                },
+                {
+                    "title": "Magma Hideout",
+                    "content": {
+                        "type": "layout",
+                        "key": "magma_hideout"
+                    }
+                },
+                {
+                    "title": "Mauville City",
+                    "content": {
+                        "type": "layout",
+                        "key": "mauville"
+                    }
+                },
+                {
+                    "title": "Meteor Falls",
+                    "content": {
+                        "type": "layout",
+                        "key": "meteor_falls"
+                    }
+                },
+                {
+                    "title": "Mirage Tower",
+                    "content": {
+                        "type": "layout",
+                        "key": "mirage_tower"
                     }
                 },
                 {
@@ -90,10 +111,24 @@
                     }
                 },
                 {
-                    "title": "Sootopolis City",
+                    "title": "Mt. Pyre",
                     "content": {
                         "type": "layout",
-                        "key": "sootopolis"
+                        "key": "mt_pyre"
+                    }
+                },
+                {
+                    "title": "Navel Rock",
+                    "content": {
+                        "type": "layout",
+                        "key": "navel_rock"
+                    }
+                },
+                {
+                    "title": "Oldale Town",
+                    "content": {
+                        "type": "layout",
+                        "key": "oldale"
                     }
                 },
                 {
@@ -104,10 +139,17 @@
                     }
                 },
                 {
-                    "title": "Ever Grande City",
+                    "title": "Petalburg City",
                     "content": {
                         "type": "layout",
-                        "key": "ever_grande"
+                        "key": "petalburg"
+                    }
+                },
+                {
+                    "title": "Petalburg Woods",
+                    "content": {
+                        "type": "layout",
+                        "key": "petalburg_woods"
                     }
                 },
                 {
@@ -237,73 +279,10 @@
                     }
                 },
                 {
-                    "title": "Underwater",
+                    "title": "Rustboro City",
                     "content": {
                         "type": "layout",
-                        "key": "underwater"
-                    }
-                },
-                {
-                    "title": "Aqua Hideout",
-                    "content": {
-                        "type": "layout",
-                        "key": "aqua_hideout"
-                    }
-                },
-                {
-                    "title": "Granite Cave",
-                    "content": {
-                        "type": "layout",
-                        "key": "granite"
-                    }
-                },
-                {
-                    "title": "Jagged Pass",
-                    "content": {
-                        "type": "layout",
-                        "key": "jagged_pass"
-                    }
-                },
-                {
-                    "title": "Magma Hideout",
-                    "content": {
-                        "type": "layout",
-                        "key": "magma_hideout"
-                    }
-                },
-                {
-                    "title": "Meteor Falls",
-                    "content": {
-                        "type": "layout",
-                        "key": "meteor_falls"
-                    }
-                },
-                {
-                    "title": "Mirage Tower",
-                    "content": {
-                        "type": "layout",
-                        "key": "mirage_tower"
-                    }
-                },
-                {
-                    "title": "Navel Rock",
-                    "content": {
-                        "type": "layout",
-                        "key": "navel_rock"
-                    }
-                },
-                {
-                    "title": "Petalburg Woods",
-                    "content": {
-                        "type": "layout",
-                        "key": "petalburg_woods"
-                    }
-                },
-                {
-                    "title": "Mt. Pyre",
-                    "content": {
-                        "type": "layout",
-                        "key": "mt_pyre"
+                        "key": "rustboro"
                     }
                 },
                 {
@@ -321,17 +300,38 @@
                     }
                 },
                 {
-                    "title": "Abandoned Ship",
-                    "content": {
-                        "type": "layout",
-                        "key": "ship"
-                    }
-                },
-                {
                     "title": "Sky Pillar",
                     "content": {
                         "type": "layout",
                         "key": "sky_pillar"
+                    }
+                },
+                {
+                    "title": "Slateport City",
+                    "content": {
+                        "type": "layout",
+                        "key": "slateport"
+                    }
+                },
+                {
+                    "title": "Sootopolis City",
+                    "content": {
+                        "type": "layout",
+                        "key": "sootopolis"
+                    }
+                },
+                {
+                    "title": "Underwater",
+                    "content": {
+                        "type": "layout",
+                        "key": "underwater"
+                    }
+                },
+                {
+                    "title": "Verdanturf Town",
+                    "content": {
+                        "type": "layout",
+                        "key": "verdanturf"
                     }
                 },
                 {

@@ -44,55 +44,55 @@
                     "item_width": 86,
                     "rows": [
                         [
-                            "doorslot_oldale", "doorslot_petalburg", "doorslot_rustboro"
+                            "doorslot_abandoned_ship", "doorslot_aqua_hideout", "doorslot_dept"
                         ],
                         [
-                            "doorslot_dewford", "doorslot_slateport", "doorslot_mauville"
+                            "doorslot_dewford", "doorslot_ever_grande", "doorslot_fallarbor"
                         ],
                         [
-                            "doorslot_verdanturf", "doorslot_lavaridge", "doorslot_fallarbor"
+                            "doorslot_fortree", "doorslot_granite", "doorslot_jagged_pass"
                         ],
                         [
-                            "doorslot_fortree", "doorslot_lilycove", "doorslot_mossdeep"
+                            "doorslot_lavaridge", "doorslot_lilycove", "doorslot_magma_hideout"
                         ],
                         [
-                            "doorslot_sootopolis", "doorslot_pacifidlog", "doorslot_ever_grande"
+                            "doorslot_mauville", "doorslot_meteor_falls", "doorslot_mirage_tower"
                         ],
                         [
-                            "doorslot_route_104", "doorslot_route_105", "doorslot_route_106"
+                            "doorslot_mossdeep", "doorslot_mt_pyre", "doorslot_navel_rock"
                         ],
                         [
-                            "doorslot_route_108", "doorslot_route_109", "doorslot_route_110"
+                            "doorslot_oldale", "doorslot_pacifidlog", "doorslot_petalburg"
                         ],
                         [
-                            "doorslot_route_111", "doorslot_route_112", "doorslot_route_113"
+                            "doorslot_petalburg_woods", "doorslot_route_104", "doorslot_route_105"
                         ],
                         [
-                            "doorslot_route_114", "doorslot_route_115", "doorslot_route_116"
+                            "doorslot_route_106", "doorslot_route_108", "doorslot_route_109"
                         ],
                         [
-                            "doorslot_route_117", "doorslot_route_119", "doorslot_route_120"
+                            "doorslot_route_110", "doorslot_route_111", "doorslot_route_112"
                         ],
                         [
-                            "doorslot_route_122", "doorslot_route_123", "doorslot_route_124"
+                            "doorslot_route_113", "doorslot_route_114", "doorslot_route_115"
                         ],
                         [
-                            "doorslot_underwater", "doorslot_aqua_hideout", "doorslot_granite"
+                            "doorslot_route_116", "doorslot_route_117", "doorslot_route_119"
                         ],
                         [
-                            "doorslot_jagged_pass", "doorslot_magma_hideout", "doorslot_meteor_falls"
+                            "doorslot_route_120", "doorslot_route_122", "doorslot_route_123"
                         ],
                         [
-                            "doorslot_mirage_tower", "doorslot_navel_rock", "doorslot_petalburg_woods"
+                            "doorslot_route_124", "doorslot_rustboro", "doorslot_rusturf_tunnel"
                         ],
                         [
-                            "doorslot_mt_pyre", "doorslot_rusturf_tunnel", "doorslot_seafloor_cavern"
+                            "doorslot_seafloor_cavern", "doorslot_sky_pillar", "doorslot_slateport"
                         ],
                         [
-                            "doorslot_abandoned_ship", "doorslot_sky_pillar", "doorslot_victory_road"
+                            "doorslot_sootopolis", "doorslot_underwater", "doorslot_verdanturf"
                         ],
                         [
-                            "doorslot_dept"
+                            "doorslot_victory_road"
                         ]
                     ]
                 }
