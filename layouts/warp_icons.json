@@ -11,7 +11,7 @@
                     "item_margin": "1,2",
                     "rows": [
                         [
-                            "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer", "doorslot_center", "doorslot_mart", "doorslot_bike"
+                            "doorslot_unknown", "doorslot_one_way", "doorslot_dead_end", "doorslot_event", "doorslot_trainer", "doorslot_center", "doorslot_mart", "doorslot_bike"
                         ],
                         [
                             "doorslot_stone_badge", "doorslot_knuckle_badge", "doorslot_dynamo_badge", "doorslot_heat_badge", "doorslot_balance_badge", "doorslot_feather_badge", "doorslot_mind_badge", "doorslot_rain_badge"
