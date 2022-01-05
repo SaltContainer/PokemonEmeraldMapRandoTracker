@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5
+- Added Saving/Loading support for warps (Previously only worked for the progress section)
+- Changed layout to be consistent with Platinum tracker
+- Small code clean-up
+
 ## 0.4
 - Switched the selection order (warp first, then icon)
 - Fixed long icons not being selectable outside of the center
