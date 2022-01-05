@@ -146,6 +146,7 @@ end
 
 function DoorSlot:setState(state)
     self:setProperty("state", state)
+    DOORSLOTS[self.code] = state
 end
 
 function DoorSlot:getState()
@@ -176,6 +177,11 @@ function DoorSlot:onRightClick()
     local state = DoorSlotSelection.Selection
     self:setState(state)
     self.hubIcon:setState(state)
+end
+
+function DoorSlot:manualRightClick(selection)
+    self:setState(selection)
+    self.hubIcon:setState(selection)
 end
 
 function DoorSlot:canProvideCode(code)
