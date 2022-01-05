@@ -96,6 +96,23 @@
                         ]
                     ]
                 }
+            },
+            {
+                "type": "dock",
+                "dock": "bottom",
+                "v_alignment": "bottom",
+                "width": 285,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Progress",
+                        "dock": "left",
+                        "content": {
+                            "type": "layout",
+                            "key": "tracker_items"
+                        }
+                    }
+                ]
             }
         ]
     }
