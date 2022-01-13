@@ -84,60 +84,6 @@
         "codes": "steven"
     },
 	{
-        "name": "Rock Smash Needed",
-        "type": "toggle",
-        "img": "images/hms/rock_smash.png",
-        "codes": "rock_smash"
-    },
-	{
-        "name": "Strength Needed",
-        "type": "toggle",
-        "img": "images/hms/strength.png",
-        "codes": "strength"
-    },
-	{
-        "name": "Surf Needed",
-        "type": "toggle",
-        "img": "images/hms/surf.png",
-        "codes": "surf"
-    },
-	{
-        "name": "Waterfall Needed",
-        "type": "toggle",
-        "img": "images/hms/waterfall.png",
-        "codes": "waterfall"
-    },
-	{
-        "name": "Dive Needed",
-        "type": "toggle",
-        "img": "images/hms/dive.png",
-        "codes": "dive"
-    },
-	{
-        "name": "One Way",
-        "type": "toggle",
-        "img": "images/other/one_way.png",
-        "codes": "one_way"
-    },
-	{
-        "name": "Dead End",
-        "type": "toggle",
-        "img": "images/other/dead_end.png",
-        "codes": "dead_end"
-    },
-	{
-        "name": "Event Block",
-        "type": "toggle",
-        "img": "images/other/event.png",
-        "codes": "event"
-    },
-	{
-        "name": "Trainer Block",
-        "type": "toggle",
-        "img": "images/other/trainer.png",
-        "codes": "trainer"
-    },
-    {
         "name": "HM01 - Cut",
         "type": "toggle",
         "img": "images/hms/hm1.png",
@@ -184,53 +130,5 @@
         "type": "toggle",
         "img": "images/hms/hm8.png",
         "codes": "hm8"
-    },
-	{
-        "name": "Custom 1",
-        "type": "toggle",
-        "img": "images/types/normal.png",
-        "codes": "custom1"
-    },
-	{
-        "name": "Custom 2",
-        "type": "toggle",
-        "img": "images/types/fire.png",
-        "codes": "custom2"
-    },
-	{
-        "name": "Custom 3",
-        "type": "toggle",
-        "img": "images/types/grass.png",
-        "codes": "custom3"
-    },
-	{
-        "name": "Custom 4",
-        "type": "toggle",
-        "img": "images/types/electric.png",
-        "codes": "custom4"
-    },
-    {
-        "name": "Custom 5",
-        "type": "toggle",
-        "img": "images/types/poison.png",
-        "codes": "custom5"
-    },
-	{
-        "name": "Custom 6",
-        "type": "toggle",
-        "img": "images/types/fairy.png",
-        "codes": "custom6"
-    },
-	{
-        "name": "Custom 7",
-        "type": "toggle",
-        "img": "images/types/bug.png",
-        "codes": "custom7"
-    },
-	{
-        "name": "Custom 8",
-        "type": "toggle",
-        "img": "images/types/psychic.png",
-        "codes": "custom8"
     }
 ]
