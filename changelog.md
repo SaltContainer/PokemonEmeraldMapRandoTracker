@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6
+- Split Lilycove City and Department Store into separate tabs
+- Removed some useless files
+
 ## 0.5
 - Added Saving/Loading support for warps (Previously only worked for the progress section)
 - Changed layout to be consistent with Platinum tracker
