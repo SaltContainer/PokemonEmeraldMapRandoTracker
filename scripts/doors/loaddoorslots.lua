@@ -1,5 +1,6 @@
 ScriptHost:LoadScript("scripts/doors/locations/AbandonedShip.lua")
 ScriptHost:LoadScript("scripts/doors/locations/AquaHideout.lua")
+ScriptHost:LoadScript("scripts/doors/locations/DeptStore.lua")
 ScriptHost:LoadScript("scripts/doors/locations/DewfordTown.lua")
 ScriptHost:LoadScript("scripts/doors/locations/EverGrandeCity.lua")
 ScriptHost:LoadScript("scripts/doors/locations/FallarborTown.lua")

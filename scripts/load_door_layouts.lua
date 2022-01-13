@@ -1,5 +1,6 @@
 Tracker:AddLayouts("layouts/maps/AbandonedShip.json")
 Tracker:AddLayouts("layouts/maps/AquaHideout.json")
+Tracker:AddLayouts("layouts/maps/DeptStore.json")
 Tracker:AddLayouts("layouts/maps/DewfordTown.json")
 Tracker:AddLayouts("layouts/maps/EverGrandeCity.json")
 Tracker:AddLayouts("layouts/maps/FallarborTown.json")

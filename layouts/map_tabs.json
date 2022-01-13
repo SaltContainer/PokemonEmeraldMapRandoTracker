@@ -20,6 +20,13 @@
                     }
                 },
                 {
+                    "title": "Department Store",
+                    "content": {
+                        "type": "layout",
+                        "key": "dept"
+                    }
+                },
+                {
                     "title": "Dewford Town",
                     "content": {
                         "type": "layout",

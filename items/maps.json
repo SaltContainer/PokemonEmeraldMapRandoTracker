@@ -334,5 +334,12 @@
 		"type": "static",
         "initial_active_state": true,
         "img": "images/maps/underwater.png"
+    },
+    {
+        "name": "Department Store",
+        "codes": "dept",
+		"type": "static",
+        "initial_active_state": true,
+        "img": "images/maps/dept.png"
     }
 ]

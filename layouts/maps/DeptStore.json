@@ -1,0 +1,201 @@
+{
+	"dept": {
+		"type": "container",
+		"content": [
+			{
+				"type": "canvas",
+				"content": [
+					{
+						"type": "item",
+						"item": "slot_dept_0",
+						"canvas_left": 330,
+						"canvas_top": 378,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_0",
+						"canvas_left": 277,
+						"canvas_top": 378,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_1",
+						"canvas_left": 451,
+						"canvas_top": 309,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_1",
+						"canvas_left": 398,
+						"canvas_top": 309,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_2",
+						"canvas_left": 403,
+						"canvas_top": 130,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_2",
+						"canvas_left": 350,
+						"canvas_top": 130,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_3",
+						"canvas_left": 451,
+						"canvas_top": 170,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_3",
+						"canvas_left": 398,
+						"canvas_top": 170,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_4",
+						"canvas_left": 401,
+						"canvas_top": -12,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_4",
+						"canvas_left": 348,
+						"canvas_top": -12,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_5",
+						"canvas_left": 451,
+						"canvas_top": 27,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_5",
+						"canvas_left": 398,
+						"canvas_top": 27,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_6",
+						"canvas_left": 706,
+						"canvas_top": 128,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_6",
+						"canvas_left": 653,
+						"canvas_top": 128,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_7",
+						"canvas_left": 756,
+						"canvas_top": 173,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_7",
+						"canvas_left": 703,
+						"canvas_top": 173,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_8",
+						"canvas_left": 706,
+						"canvas_top": 274,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_8",
+						"canvas_left": 653,
+						"canvas_top": 274,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "slot_dept_9",
+						"canvas_left": 754,
+						"canvas_top": 315,
+						"width": 32,
+						"height": 32,
+						"canvas_depth": 2
+					},
+					{
+						"type": "item",
+						"item": "hubslot_dept_9",
+						"canvas_left": 701,
+						"canvas_top": 315,
+						"width": 138,
+						"height": 32,
+						"canvas_depth": 1
+					},
+					{
+						"type": "item",
+						"item": "dept",
+						"canvas_left": 204,
+						"canvas_top": 0,
+						"width": 592,
+						"height": 416,
+						"canvas_depth": 0
+					}
+				]
+			}
+		]
+	}
+}
