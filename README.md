@@ -5,6 +5,9 @@ Also uses custom items in the same way as codemann8's ALttPR Full Tracker, GitHu
 
 It's an EmoTracker pack with maps for the [Universal Warp Randomizer](https://www.reddit.com/r/pokemon/comments/qel5h4/i_created_a_mod_that_randomizes_the_entire_map_of/) used on Pokémon Emerald, available on PointCrow's [Discord](https://discord.gg/pointcrow).
 
+### All 3 (Emerald, Platinum, and FRLG) of my Warp Randomizer Tracker EmoTracker packs are no longer supported. You can still use them perfectly fine, but I recommend using newer and better trackers.
+**My recommendation is Sekii's Web Tracker, available [here](https://sekii.gitlab.io/pokemon-tracker/).**
+
 ## Requirements
 
 [EmoTracker](https://emotracker.net/)
